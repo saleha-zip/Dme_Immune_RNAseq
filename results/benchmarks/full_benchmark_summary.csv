@@ -1,0 +1,7 @@
+stage,method,time_s,notes
+preprocessing,pandas_sequential,0.448,full 41-sample matrix
+preprocessing,spark_distributed,31.796,full 41-sample distributed pipeline
+partition_scaling_4,spark,2.577,
+partition_scaling_8,spark,1.155,
+partition_scaling_21,spark,0.984,
+partition_scaling_42,spark,1.425,

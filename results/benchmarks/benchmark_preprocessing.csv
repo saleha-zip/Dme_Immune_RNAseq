@@ -1,0 +1,3 @@
+stage,method,time_seconds,speedup
+preprocessing,pandas_sequential,0.448,0.01
+preprocessing,spark_distributed,31.796,0.01

@@ -1,8 +1,5 @@
-pyspark
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
-jupyter
+pyspark>=3.3.0
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0

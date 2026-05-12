@@ -1,0 +1,2122 @@
+immune_process,functional_class,hours,mean_log2_cpm,n_genes
+Anti-viral,Anti-viral,0,5.552900249601576,16
+Anti-viral,Anti-viral,1,5.623094424844216,16
+Anti-viral,Anti-viral,2,5.698314848164813,16
+Anti-viral,Anti-viral,3,5.58115741655881,16
+Anti-viral,Anti-viral,4,5.741150289274206,16
+Anti-viral,Anti-viral,5,5.516736710478392,16
+Anti-viral,Anti-viral,6,5.760537301082864,16
+Anti-viral,Anti-viral,8,5.723828969359013,16
+Anti-viral,Anti-viral,10,5.718875417489381,16
+Anti-viral,Anti-viral,12,5.713691212069134,16
+Anti-viral,Anti-viral,14,5.750830554648711,16
+Anti-viral,Anti-viral,16,5.697294162407172,16
+Anti-viral,Anti-viral,20,5.65356990483882,16
+Anti-viral,Anti-viral,24,5.5886382809172295,16
+Anti-viral,Anti-viral,30,5.669772839642017,16
+Anti-viral,Anti-viral,36,5.752910745303524,16
+Anti-viral,Anti-viral,42,5.682172524365271,16
+Anti-viral,Anti-viral,48,5.673144838132918,16
+Anti-viral,Anti-viral,72,5.65683977364887,16
+Anti-viral,Anti-viral,96,5.754271094011594,16
+Anti-viral,Anti-viral,120,5.7153091125530855,16
+Cellular,Recognition,0,6.154067323179959,7
+Cellular,Signaling,0,4.498159569819597,18
+Cellular,Recognition,1,6.094512615726245,7
+Cellular,Signaling,1,4.521675765465227,18
+Cellular,Signaling,2,4.64653386446621,18
+Cellular,Recognition,2,6.009872621911595,7
+Cellular,Signaling,3,4.583629814659809,18
+Cellular,Recognition,3,5.902190859702935,7
+Cellular,Signaling,4,4.59903018941416,18
+Cellular,Recognition,4,6.629987999941209,7
+Cellular,Signaling,5,4.423496376939389,18
+Cellular,Recognition,5,6.7259208834666,7
+Cellular,Recognition,6,6.896801751801793,7
+Cellular,Signaling,6,4.689261102219701,18
+Cellular,Signaling,8,4.60363957898919,18
+Cellular,Recognition,8,6.783447230983656,7
+Cellular,Signaling,10,4.6511667617496775,18
+Cellular,Recognition,10,7.030723222857307,7
+Cellular,Signaling,12,4.649680369824647,18
+Cellular,Recognition,12,7.002452190623198,7
+Cellular,Recognition,14,6.562072232889881,7
+Cellular,Signaling,14,4.6642486584445395,18
+Cellular,Recognition,16,6.343065464979651,7
+Cellular,Signaling,16,4.5790856232142225,18
+Cellular,Signaling,20,4.596411518004715,18
+Cellular,Recognition,20,6.380566236294707,7
+Cellular,Recognition,24,6.225812079555938,7
+Cellular,Signaling,24,4.586381142025465,18
+Cellular,Recognition,30,6.667386267652404,7
+Cellular,Signaling,30,4.6866260201698635,18
+Cellular,Recognition,36,6.426945708721923,7
+Cellular,Signaling,36,4.672806444534814,18
+Cellular,Recognition,42,6.355794830514499,7
+Cellular,Signaling,42,4.594506844259342,18
+Cellular,Signaling,48,4.621042541316012,18
+Cellular,Recognition,48,6.109848170897373,7
+Cellular,Recognition,72,6.099747137471892,7
+Cellular,Signaling,72,4.612147556558996,18
+Cellular,Recognition,96,6.1833504910459505,7
+Cellular,Signaling,96,4.732884379948483,18
+Cellular,Recognition,120,6.225505267951361,7
+Cellular,Signaling,120,4.712320514653153,18
+Cellular; Coagulation,Signaling,0,4.01874354557666,1
+Cellular; Coagulation,Other,0,5.653257829705318,1
+Cellular; Coagulation,Signaling,1,3.913635570516569,1
+Cellular; Coagulation,Other,1,6.176733548080419,1
+Cellular; Coagulation,Signaling,2,3.744054593610209,1
+Cellular; Coagulation,Other,2,6.548026426267466,1
+Cellular; Coagulation,Signaling,3,3.741560289073804,1
+Cellular; Coagulation,Other,3,6.693380568823592,1
+Cellular; Coagulation,Signaling,4,3.707013585841074,1
+Cellular; Coagulation,Other,4,6.162479149996537,1
+Cellular; Coagulation,Signaling,5,3.5994781701641223,1
+Cellular; Coagulation,Other,5,6.24963868992051,1
+Cellular; Coagulation,Signaling,6,3.876100027888482,1
+Cellular; Coagulation,Other,6,6.090199858195314,1
+Cellular; Coagulation,Signaling,8,3.760144290410883,1
+Cellular; Coagulation,Other,8,6.055800488372092,1
+Cellular; Coagulation,Signaling,10,3.8056380410518806,1
+Cellular; Coagulation,Other,10,6.473143507570125,1
+Cellular; Coagulation,Signaling,12,3.7579915522084395,1
+Cellular; Coagulation,Other,12,6.5634334284773725,1
+Cellular; Coagulation,Signaling,14,3.783719835742196,1
+Cellular; Coagulation,Other,14,6.489711458285882,1
+Cellular; Coagulation,Signaling,16,3.78560354453553,1
+Cellular; Coagulation,Other,16,6.03900375458211,1
+Cellular; Coagulation,Signaling,20,3.852935126392402,1
+Cellular; Coagulation,Other,20,5.668046562366566,1
+Cellular; Coagulation,Signaling,24,3.9240641181567373,1
+Cellular; Coagulation,Other,24,5.925897332964703,1
+Cellular; Coagulation,Signaling,30,3.9477331849894854,1
+Cellular; Coagulation,Other,30,5.911693840472932,1
+Cellular; Coagulation,Signaling,36,3.966885242177208,1
+Cellular; Coagulation,Other,36,6.01051449646429,1
+Cellular; Coagulation,Signaling,42,3.9042100278752137,1
+Cellular; Coagulation,Other,42,5.597107496107796,1
+Cellular; Coagulation,Signaling,48,4.06738174865109,1
+Cellular; Coagulation,Other,48,5.634146871391506,1
+Cellular; Coagulation,Signaling,72,3.8694508160523333,1
+Cellular; Coagulation,Other,72,5.537177288499977,1
+Cellular; Coagulation,Signaling,96,3.9121631658113243,1
+Cellular; Coagulation,Other,96,5.518260323494815,1
+Cellular; Coagulation,Signaling,120,3.951010123665154,1
+Cellular; Coagulation,Other,120,5.389303106080009,1
+Cellular; Coagulation; Wound repair,Effector,0,5.4864890004458235,1
+Cellular; Coagulation; Wound repair,Effector,1,5.612363030938071,1
+Cellular; Coagulation; Wound repair,Effector,2,5.486440673060124,1
+Cellular; Coagulation; Wound repair,Effector,3,5.012032337850719,1
+Cellular; Coagulation; Wound repair,Effector,4,5.367254576532142,1
+Cellular; Coagulation; Wound repair,Effector,5,5.449422983496802,1
+Cellular; Coagulation; Wound repair,Effector,6,5.237579369158967,1
+Cellular; Coagulation; Wound repair,Effector,8,5.662194708641015,1
+Cellular; Coagulation; Wound repair,Effector,10,6.151522018535919,1
+Cellular; Coagulation; Wound repair,Effector,12,6.29131381007943,1
+Cellular; Coagulation; Wound repair,Effector,14,6.29784436947295,1
+Cellular; Coagulation; Wound repair,Effector,16,6.459867039402864,1
+Cellular; Coagulation; Wound repair,Effector,20,6.687766424994055,1
+Cellular; Coagulation; Wound repair,Effector,24,6.403008428848052,1
+Cellular; Coagulation; Wound repair,Effector,30,6.490322808353617,1
+Cellular; Coagulation; Wound repair,Effector,36,5.87304614784531,1
+Cellular; Coagulation; Wound repair,Effector,42,6.4217323925335315,1
+Cellular; Coagulation; Wound repair,Effector,48,6.146480009857934,1
+Cellular; Coagulation; Wound repair,Effector,72,5.998680299543565,1
+Cellular; Coagulation; Wound repair,Effector,96,5.754688304316334,1
+Cellular; Coagulation; Wound repair,Effector,120,6.135286933761318,1
+Cellular; Epithelial; Anti-viral,Recognition,0,4.710049517530333,1
+Cellular; Epithelial; Anti-viral,Recognition,1,4.534082892003815,1
+Cellular; Epithelial; Anti-viral,Recognition,2,4.638787725976904,1
+Cellular; Epithelial; Anti-viral,Recognition,3,4.483319844310997,1
+Cellular; Epithelial; Anti-viral,Recognition,4,4.528898361607273,1
+Cellular; Epithelial; Anti-viral,Recognition,5,4.256939204752678,1
+Cellular; Epithelial; Anti-viral,Recognition,6,4.6201620457939185,1
+Cellular; Epithelial; Anti-viral,Recognition,8,4.588285477480856,1
+Cellular; Epithelial; Anti-viral,Recognition,10,4.573338455484899,1
+Cellular; Epithelial; Anti-viral,Recognition,12,4.535367474243095,1
+Cellular; Epithelial; Anti-viral,Recognition,14,4.403860001204068,1
+Cellular; Epithelial; Anti-viral,Recognition,16,4.592078530398028,1
+Cellular; Epithelial; Anti-viral,Recognition,20,4.479048989358983,1
+Cellular; Epithelial; Anti-viral,Recognition,24,4.4949926429784846,1
+Cellular; Epithelial; Anti-viral,Recognition,30,4.511781040710179,1
+Cellular; Epithelial; Anti-viral,Recognition,36,4.481176019076912,1
+Cellular; Epithelial; Anti-viral,Recognition,42,4.399822291435692,1
+Cellular; Epithelial; Anti-viral,Recognition,48,4.516365268576018,1
+Cellular; Epithelial; Anti-viral,Recognition,72,4.485900124277656,1
+Cellular; Epithelial; Anti-viral,Recognition,96,4.237204489382952,1
+Cellular; Epithelial; Anti-viral,Recognition,120,4.169501787583843,1
+Cellular; PO-Melanization,Signaling,0,4.191365866405605,3
+Cellular; PO-Melanization,Signaling,1,4.187837984330299,3
+Cellular; PO-Melanization,Signaling,2,4.185207551114389,3
+Cellular; PO-Melanization,Signaling,3,3.902891741150959,3
+Cellular; PO-Melanization,Signaling,4,4.41221269442119,3
+Cellular; PO-Melanization,Signaling,5,3.9361080004531543,3
+Cellular; PO-Melanization,Signaling,6,4.293969314370874,3
+Cellular; PO-Melanization,Signaling,8,4.503767816266234,3
+Cellular; PO-Melanization,Signaling,10,4.3086699568617925,3
+Cellular; PO-Melanization,Signaling,12,4.204040072901364,3
+Cellular; PO-Melanization,Signaling,14,4.280322053485041,3
+Cellular; PO-Melanization,Signaling,16,4.328699204378368,3
+Cellular; PO-Melanization,Signaling,20,4.225749228493821,3
+Cellular; PO-Melanization,Signaling,24,4.129628490133294,3
+Cellular; PO-Melanization,Signaling,30,4.237219449965067,3
+Cellular; PO-Melanization,Signaling,36,4.326031201633776,3
+Cellular; PO-Melanization,Signaling,42,4.170121800670536,3
+Cellular; PO-Melanization,Signaling,48,4.3280926115787395,3
+Cellular; PO-Melanization,Signaling,72,4.3731732776554795,3
+Cellular; PO-Melanization,Signaling,96,4.228462348288379,3
+Cellular; PO-Melanization,Signaling,120,4.097158132682286,3
+Cellular; Wound repair,Signaling,0,5.600840460359831,2
+Cellular; Wound repair,Signaling,1,5.991573899170331,2
+Cellular; Wound repair,Signaling,2,5.970590501704784,2
+Cellular; Wound repair,Signaling,3,5.73843946591561,2
+Cellular; Wound repair,Signaling,4,5.751202224761371,2
+Cellular; Wound repair,Signaling,5,5.43006339549147,2
+Cellular; Wound repair,Signaling,6,5.683813245069404,2
+Cellular; Wound repair,Signaling,8,5.653714354810955,2
+Cellular; Wound repair,Signaling,10,5.633465074426956,2
+Cellular; Wound repair,Signaling,12,5.783994898297802,2
+Cellular; Wound repair,Signaling,14,5.77705684235817,2
+Cellular; Wound repair,Signaling,16,5.696548807757813,2
+Cellular; Wound repair,Signaling,20,5.740830705714412,2
+Cellular; Wound repair,Signaling,24,5.677843620985239,2
+Cellular; Wound repair,Signaling,30,5.695991339246497,2
+Cellular; Wound repair,Signaling,36,5.9499913247380825,2
+Cellular; Wound repair,Signaling,42,5.725400856859857,2
+Cellular; Wound repair,Signaling,48,5.849993562867495,2
+Cellular; Wound repair,Signaling,72,5.796850711037777,2
+Cellular; Wound repair,Signaling,96,6.261035936318464,2
+Cellular; Wound repair,Signaling,120,6.013992401875643,2
+Cellular; Wound repair; PO-Melanization,Signaling,0,5.153392344937072,2
+Cellular; Wound repair; PO-Melanization,Signaling,1,5.086488832337178,2
+Cellular; Wound repair; PO-Melanization,Signaling,2,5.217542445493877,2
+Cellular; Wound repair; PO-Melanization,Signaling,3,5.218212984385026,2
+Cellular; Wound repair; PO-Melanization,Signaling,4,5.0926608182380155,2
+Cellular; Wound repair; PO-Melanization,Signaling,5,4.954355295941459,2
+Cellular; Wound repair; PO-Melanization,Signaling,6,5.186942739842692,2
+Cellular; Wound repair; PO-Melanization,Signaling,8,5.14932259252966,2
+Cellular; Wound repair; PO-Melanization,Signaling,10,5.2158956494421655,2
+Cellular; Wound repair; PO-Melanization,Signaling,12,5.23600816087384,2
+Cellular; Wound repair; PO-Melanization,Signaling,14,5.318754050115892,2
+Cellular; Wound repair; PO-Melanization,Signaling,16,5.279667632308295,2
+Cellular; Wound repair; PO-Melanization,Signaling,20,5.262704352094817,2
+Cellular; Wound repair; PO-Melanization,Signaling,24,5.1587857580299366,2
+Cellular; Wound repair; PO-Melanization,Signaling,30,5.242595187679984,2
+Cellular; Wound repair; PO-Melanization,Signaling,36,5.4230511379067945,2
+Cellular; Wound repair; PO-Melanization,Signaling,42,5.255903350279661,2
+Cellular; Wound repair; PO-Melanization,Signaling,48,5.2143608992463015,2
+Cellular; Wound repair; PO-Melanization,Signaling,72,5.172507804784072,2
+Cellular; Wound repair; PO-Melanization,Signaling,96,5.327935130769064,2
+Cellular; Wound repair; PO-Melanization,Signaling,120,5.295859179412747,2
+Coagulation,Effector,0,6.436486307910501,2
+Coagulation,Signaling,0,10.98796628270991,1
+Coagulation,Effector,1,6.395920336635874,2
+Coagulation,Signaling,1,10.924793591719641,1
+Coagulation,Effector,2,6.314619443020241,2
+Coagulation,Signaling,2,10.486999832097794,1
+Coagulation,Effector,3,5.991452500211015,2
+Coagulation,Signaling,3,9.348774651444982,1
+Coagulation,Effector,4,6.260528100314831,2
+Coagulation,Signaling,4,9.630842101584028,1
+Coagulation,Effector,5,6.101780624479863,2
+Coagulation,Signaling,5,10.177101090418335,1
+Coagulation,Effector,6,6.215036510480235,2
+Coagulation,Signaling,6,10.288513447448068,1
+Coagulation,Effector,8,6.28293030459024,2
+Coagulation,Signaling,8,10.915883482033138,1
+Coagulation,Effector,10,6.3873878910488076,2
+Coagulation,Signaling,10,11.526043556164641,1
+Coagulation,Effector,12,6.154278219136865,2
+Coagulation,Signaling,12,11.728639198914543,1
+Coagulation,Effector,14,6.15475840106044,2
+Coagulation,Signaling,14,11.491795631065,1
+Coagulation,Effector,16,6.519176444329167,2
+Coagulation,Signaling,16,11.203425605615923,1
+Coagulation,Effector,20,6.896534077554528,2
+Coagulation,Signaling,20,10.98057230249685,1
+Coagulation,Effector,24,6.629555010026292,2
+Coagulation,Signaling,24,11.455849771573789,1
+Coagulation,Effector,30,6.67269754280685,2
+Coagulation,Signaling,30,11.722974420107558,1
+Coagulation,Effector,36,5.970530728537519,2
+Coagulation,Signaling,36,11.724973201574517,1
+Coagulation,Effector,42,6.7378218418142675,2
+Coagulation,Signaling,42,11.412997174679584,1
+Coagulation,Effector,48,6.627444245585562,2
+Coagulation,Signaling,48,11.388589091474662,1
+Coagulation,Effector,72,6.550986264016905,2
+Coagulation,Signaling,72,11.529629960902366,1
+Coagulation,Effector,96,6.717393925088349,2
+Coagulation,Signaling,96,11.302143356425418,1
+Coagulation,Effector,120,6.618038392122167,2
+Coagulation,Signaling,120,11.522914973492615,1
+Coagulation; Wound repair,Effector,0,7.118497997776641,2
+Coagulation; Wound repair,Effector,1,7.0737728457522255,2
+Coagulation; Wound repair,Effector,2,6.815923592059503,2
+Coagulation; Wound repair,Effector,3,6.415916141417532,2
+Coagulation; Wound repair,Effector,4,6.460511095821518,2
+Coagulation; Wound repair,Effector,5,6.681942861877777,2
+Coagulation; Wound repair,Effector,6,6.275371808216083,2
+Coagulation; Wound repair,Effector,8,6.6222783736448685,2
+Coagulation; Wound repair,Effector,10,6.982757391307439,2
+Coagulation; Wound repair,Effector,12,7.040704621096195,2
+Coagulation; Wound repair,Effector,14,7.015759411636691,2
+Coagulation; Wound repair,Effector,16,7.2450590110343605,2
+Coagulation; Wound repair,Effector,20,7.182329491496832,2
+Coagulation; Wound repair,Effector,24,7.297317855881378,2
+Coagulation; Wound repair,Effector,30,7.237173515883219,2
+Coagulation; Wound repair,Effector,36,7.229004172901403,2
+Coagulation; Wound repair,Effector,42,7.381093183421239,2
+Coagulation; Wound repair,Effector,48,7.226538557110363,2
+Coagulation; Wound repair,Effector,72,7.119398257155269,2
+Coagulation; Wound repair,Effector,96,7.206459530760229,2
+Coagulation; Wound repair,Effector,120,7.147647059880938,2
+Coagulation; Wound repair; PO-Melanization,Effector,0,4.113723973101116,1
+Coagulation; Wound repair; PO-Melanization,Effector,1,3.9654703101148954,1
+Coagulation; Wound repair; PO-Melanization,Effector,2,4.168745354975248,1
+Coagulation; Wound repair; PO-Melanization,Effector,3,3.784501355163423,1
+Coagulation; Wound repair; PO-Melanization,Effector,4,3.9674429796096744,1
+Coagulation; Wound repair; PO-Melanization,Effector,5,3.7759036532694488,1
+Coagulation; Wound repair; PO-Melanization,Effector,6,3.8990407903707576,1
+Coagulation; Wound repair; PO-Melanization,Effector,8,3.949938688171062,1
+Coagulation; Wound repair; PO-Melanization,Effector,10,4.05911046981981,1
+Coagulation; Wound repair; PO-Melanization,Effector,12,4.1461721027730984,1
+Coagulation; Wound repair; PO-Melanization,Effector,14,3.9072495779395675,1
+Coagulation; Wound repair; PO-Melanization,Effector,16,3.9461520916835076,1
+Coagulation; Wound repair; PO-Melanization,Effector,20,3.949377424842305,1
+Coagulation; Wound repair; PO-Melanization,Effector,24,4.182903211455358,1
+Coagulation; Wound repair; PO-Melanization,Effector,30,4.074572868390579,1
+Coagulation; Wound repair; PO-Melanization,Effector,36,4.315823252862614,1
+Coagulation; Wound repair; PO-Melanization,Effector,42,4.130872043938474,1
+Coagulation; Wound repair; PO-Melanization,Effector,48,4.308150358315079,1
+Coagulation; Wound repair; PO-Melanization,Effector,72,4.154562942961084,1
+Coagulation; Wound repair; PO-Melanization,Effector,96,4.09728980068788,1
+Coagulation; Wound repair; PO-Melanization,Effector,120,4.086839440520048,1
+Encapsulation,Recognition,0,4.472981833352408,4
+Encapsulation,Signaling,0,5.655451090703518,20
+Encapsulation,Signaling,1,5.646679916404448,20
+Encapsulation,Recognition,1,4.7996496538604685,4
+Encapsulation,Signaling,2,5.704244431325456,20
+Encapsulation,Recognition,2,4.749448405923564,4
+Encapsulation,Signaling,3,5.630817313580492,20
+Encapsulation,Recognition,3,4.601413142602679,4
+Encapsulation,Signaling,4,5.697506342614415,20
+Encapsulation,Recognition,4,4.664865655431644,4
+Encapsulation,Signaling,5,5.476222154768985,20
+Encapsulation,Recognition,5,4.743835312928983,4
+Encapsulation,Signaling,6,5.705173200473413,20
+Encapsulation,Recognition,6,4.8592723703593315,4
+Encapsulation,Signaling,8,5.6619355743269555,20
+Encapsulation,Recognition,8,4.876807373562745,4
+Encapsulation,Signaling,10,5.692899946981646,20
+Encapsulation,Recognition,10,4.89425483568577,4
+Encapsulation,Recognition,12,4.865232354889466,4
+Encapsulation,Signaling,12,5.699388057767772,20
+Encapsulation,Signaling,14,5.787147523779809,20
+Encapsulation,Recognition,14,4.865773000192358,4
+Encapsulation,Signaling,16,5.716186377150594,20
+Encapsulation,Recognition,16,4.655553872455053,4
+Encapsulation,Recognition,20,4.733223862004522,4
+Encapsulation,Signaling,20,5.666838158413915,20
+Encapsulation,Recognition,24,4.882115781757606,4
+Encapsulation,Signaling,24,5.6383633135314355,20
+Encapsulation,Signaling,30,5.679649957696071,20
+Encapsulation,Recognition,30,5.08627361795734,4
+Encapsulation,Signaling,36,5.76566264612798,20
+Encapsulation,Recognition,36,5.246822494817904,4
+Encapsulation,Recognition,42,5.169446482265359,4
+Encapsulation,Signaling,42,5.716527864024782,20
+Encapsulation,Recognition,48,5.113971007237952,4
+Encapsulation,Signaling,48,5.691933202527807,20
+Encapsulation,Signaling,72,5.715902457923441,20
+Encapsulation,Recognition,72,5.251349631811416,4
+Encapsulation,Recognition,96,6.405244012914205,4
+Encapsulation,Signaling,96,5.785152645251099,20
+Encapsulation,Recognition,120,5.93587593766385,4
+Encapsulation,Signaling,120,5.726230135877119,20
+Encapsulation; PO-Melanization,Signaling,0,4.996841194229097,1
+Encapsulation; PO-Melanization,Signaling,1,5.0765991071629415,1
+Encapsulation; PO-Melanization,Signaling,2,5.199940943159155,1
+Encapsulation; PO-Melanization,Signaling,3,5.281153004512212,1
+Encapsulation; PO-Melanization,Signaling,4,5.01880579753655,1
+Encapsulation; PO-Melanization,Signaling,5,4.8680565621778245,1
+Encapsulation; PO-Melanization,Signaling,6,5.243829656983332,1
+Encapsulation; PO-Melanization,Signaling,8,5.053685990312685,1
+Encapsulation; PO-Melanization,Signaling,10,4.988219773826133,1
+Encapsulation; PO-Melanization,Signaling,12,4.93779388930278,1
+Encapsulation; PO-Melanization,Signaling,14,5.0516397131375275,1
+Encapsulation; PO-Melanization,Signaling,16,4.875515807879729,1
+Encapsulation; PO-Melanization,Signaling,20,4.827176165476225,1
+Encapsulation; PO-Melanization,Signaling,24,4.936299977155607,1
+Encapsulation; PO-Melanization,Signaling,30,4.932024498488589,1
+Encapsulation; PO-Melanization,Signaling,36,5.011696750034567,1
+Encapsulation; PO-Melanization,Signaling,42,4.835867080921888,1
+Encapsulation; PO-Melanization,Signaling,48,5.001746388009247,1
+Encapsulation; PO-Melanization,Signaling,72,5.0148483601588225,1
+Encapsulation; PO-Melanization,Signaling,96,4.89161137875149,1
+Encapsulation; PO-Melanization,Signaling,120,4.954979446617537,1
+Encapsulation; Phagocytosis,Recognition,0,3.700004984817088,1
+Encapsulation; Phagocytosis,Recognition,1,4.43522138159319,1
+Encapsulation; Phagocytosis,Recognition,2,4.633148469292152,1
+Encapsulation; Phagocytosis,Recognition,3,4.556375809371388,1
+Encapsulation; Phagocytosis,Recognition,4,4.1342311486129,1
+Encapsulation; Phagocytosis,Recognition,5,3.915117447701098,1
+Encapsulation; Phagocytosis,Recognition,6,4.238740033587561,1
+Encapsulation; Phagocytosis,Recognition,8,4.004231946084502,1
+Encapsulation; Phagocytosis,Recognition,10,4.209384252534576,1
+Encapsulation; Phagocytosis,Recognition,12,4.314389906524553,1
+Encapsulation; Phagocytosis,Recognition,14,4.527720313615511,1
+Encapsulation; Phagocytosis,Recognition,16,4.3115086750759435,1
+Encapsulation; Phagocytosis,Recognition,20,4.450867587300873,1
+Encapsulation; Phagocytosis,Recognition,24,4.145590755219295,1
+Encapsulation; Phagocytosis,Recognition,30,4.3670289455622076,1
+Encapsulation; Phagocytosis,Recognition,36,4.688204976613612,1
+Encapsulation; Phagocytosis,Recognition,42,4.576341395585761,1
+Encapsulation; Phagocytosis,Recognition,48,4.363313525943338,1
+Encapsulation; Phagocytosis,Recognition,72,4.586839478665857,1
+Encapsulation; Phagocytosis,Recognition,96,5.10126213431829,1
+Encapsulation; Phagocytosis,Recognition,120,4.8769607870254355,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,0,5.976031330082569,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,1,5.987063277489142,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,2,6.0645640789216895,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,3,6.02909911227522,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,4,6.115623574693826,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,5,5.973262645315445,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,6,6.200312802536378,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,8,6.273136821837412,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,10,6.167339928683676,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,12,6.122746315334877,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,14,6.089456945638657,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,16,6.018623534800412,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,20,6.030946054111543,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,24,5.983151511480957,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,30,5.99660779815,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,36,6.026549869858813,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,42,5.987414264504096,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,48,5.916866337027881,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,72,5.889323493562002,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,96,5.862889399288022,1
+Encapsulation; Phagocytosis; PO-Melanization,Recognition,120,5.942917396559688,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,0,6.347576483274448,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,1,6.549861120258704,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,2,6.675641357630208,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,3,6.682069672413013,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,4,6.481915518464288,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,5,6.2206846630369235,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,6,6.4629545492790506,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,8,6.427131411148343,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,10,6.5278628977331925,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,12,6.598848632808512,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,14,6.62269115633765,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,16,6.507893243724595,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,20,6.6135099924271525,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,24,6.585003939970869,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,30,6.683182363821738,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,36,6.749289433055587,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,42,6.619971991585844,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,48,6.616330016240498,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,72,6.673155648876161,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,96,7.091234214358034,1
+Encapsulation; Phagocytosis; Wound repair,Signaling,120,7.014602805496704,1
+Epithelial,Signaling,0,4.881527091487204,4
+Epithelial,Signaling,1,4.959632638478843,4
+Epithelial,Signaling,2,5.049801509365844,4
+Epithelial,Signaling,3,4.851612278190145,4
+Epithelial,Signaling,4,5.096113123224707,4
+Epithelial,Signaling,5,4.878186272018182,4
+Epithelial,Signaling,6,5.165751675509403,4
+Epithelial,Signaling,8,5.103121581475167,4
+Epithelial,Signaling,10,5.150018466533188,4
+Epithelial,Signaling,12,5.279299261125126,4
+Epithelial,Signaling,14,5.387118378893022,4
+Epithelial,Signaling,16,5.147400232826994,4
+Epithelial,Signaling,20,5.131881277412605,4
+Epithelial,Signaling,24,5.07209798495119,4
+Epithelial,Signaling,30,5.227839262670567,4
+Epithelial,Signaling,36,5.342352547196951,4
+Epithelial,Signaling,42,5.221241822244434,4
+Epithelial,Signaling,48,5.111725514204617,4
+Epithelial,Signaling,72,5.232151856915823,4
+Epithelial,Signaling,96,5.587494079198434,4
+Epithelial,Signaling,120,5.35496370938154,4
+Epithelial; ROS,Signaling,0,5.518189889728234,5
+Epithelial; ROS,Effector (ROS),0,5.1649280834270925,2
+Epithelial; ROS,Signaling,1,5.631665133723336,5
+Epithelial; ROS,Effector (ROS),1,5.717134867229987,2
+Epithelial; ROS,Signaling,2,5.5659257252107395,5
+Epithelial; ROS,Effector (ROS),2,5.843799630247017,2
+Epithelial; ROS,Signaling,3,5.588567605957002,5
+Epithelial; ROS,Effector (ROS),3,5.4877084305144015,2
+Epithelial; ROS,Signaling,4,5.420039342600029,5
+Epithelial; ROS,Effector (ROS),4,5.5054155744687545,2
+Epithelial; ROS,Signaling,5,5.380463632324217,5
+Epithelial; ROS,Effector (ROS),5,5.10065208774323,2
+Epithelial; ROS,Signaling,6,5.487073042815245,5
+Epithelial; ROS,Effector (ROS),6,5.434891001937954,2
+Epithelial; ROS,Signaling,8,5.432557248434716,5
+Epithelial; ROS,Effector (ROS),8,5.416802715582874,2
+Epithelial; ROS,Signaling,10,5.478385733572648,5
+Epithelial; ROS,Effector (ROS),10,5.539362086621848,2
+Epithelial; ROS,Signaling,12,5.471767200981917,5
+Epithelial; ROS,Effector (ROS),12,5.612188620256383,2
+Epithelial; ROS,Signaling,14,5.517728153579512,5
+Epithelial; ROS,Effector (ROS),14,5.4094996831176125,2
+Epithelial; ROS,Signaling,16,5.426829350604768,5
+Epithelial; ROS,Effector (ROS),16,5.468842349984547,2
+Epithelial; ROS,Signaling,20,5.414275702809851,5
+Epithelial; ROS,Effector (ROS),20,5.513085806353234,2
+Epithelial; ROS,Signaling,24,5.521507970769432,5
+Epithelial; ROS,Effector (ROS),24,5.400139066014648,2
+Epithelial; ROS,Signaling,30,5.545600629674972,5
+Epithelial; ROS,Effector (ROS),30,5.601383207886112,2
+Epithelial; ROS,Signaling,36,5.593992828156007,5
+Epithelial; ROS,Effector (ROS),36,5.529439234793539,2
+Epithelial; ROS,Signaling,42,5.500733737636567,5
+Epithelial; ROS,Effector (ROS),42,5.616247991602027,2
+Epithelial; ROS,Signaling,48,5.53534584936912,5
+Epithelial; ROS,Effector (ROS),48,5.460862735403708,2
+Epithelial; ROS,Signaling,72,5.5266005385808565,5
+Epithelial; ROS,Effector (ROS),72,5.641889001791403,2
+Epithelial; ROS,Signaling,96,5.546768875557459,5
+Epithelial; ROS,Effector (ROS),96,5.538848841015685,2
+Epithelial; ROS,Signaling,120,5.561229005897343,5
+Epithelial; ROS,Effector (ROS),120,5.431451586650679,2
+Humoral,Effector (AMP),0,6.5966856478751446,1
+Humoral,Effector (Lysozyme),0,5.566351420546212,4
+Humoral,Signaling,0,4.542302487283197,6
+Humoral,Effector (Putative),0,6.771893367120888,3
+Humoral,Recognition,0,5.383302062192421,3
+Humoral,Effector (Lysozyme),1,5.887888128182019,4
+Humoral,Effector (AMP),1,6.570977246306794,1
+Humoral,Signaling,1,4.470095314748796,6
+Humoral,Effector (Putative),1,7.49786648209571,3
+Humoral,Recognition,1,6.834547549290942,3
+Humoral,Effector (Lysozyme),2,5.9467311213446585,4
+Humoral,Effector (AMP),2,6.529886390551181,1
+Humoral,Signaling,2,4.581788338096035,6
+Humoral,Effector (Putative),2,8.184650974339347,3
+Humoral,Recognition,2,7.301466458774844,3
+Humoral,Effector (Lysozyme),3,5.739924202200219,4
+Humoral,Effector (AMP),3,6.444193357559557,1
+Humoral,Signaling,3,4.426979342264997,6
+Humoral,Effector (Putative),3,8.395732615822931,3
+Humoral,Recognition,3,7.480894305575792,3
+Humoral,Effector (Lysozyme),4,5.365707495027111,4
+Humoral,Effector (AMP),4,6.346687281498548,1
+Humoral,Signaling,4,4.606408522860002,6
+Humoral,Effector (Putative),4,8.629219009118334,3
+Humoral,Recognition,4,7.454523727727675,3
+Humoral,Effector (Lysozyme),5,5.399565910755529,4
+Humoral,Effector (AMP),5,6.556012730552301,1
+Humoral,Signaling,5,4.499919523552358,6
+Humoral,Effector (Putative),5,8.804696424654262,3
+Humoral,Recognition,5,7.4357136572665015,3
+Humoral,Effector (AMP),6,6.265488149413436,1
+Humoral,Effector (Lysozyme),6,5.065002236746363,4
+Humoral,Signaling,6,4.689983734206159,6
+Humoral,Effector (Putative),6,8.769601120040454,3
+Humoral,Recognition,6,7.25813151351547,3
+Humoral,Effector (Lysozyme),8,5.271152537292215,4
+Humoral,Effector (AMP),8,6.379394138197027,1
+Humoral,Signaling,8,4.6377661469367455,6
+Humoral,Effector (Putative),8,8.90548863471844,3
+Humoral,Recognition,8,7.283159512130724,3
+Humoral,Effector (Lysozyme),10,5.578157122905209,4
+Humoral,Effector (AMP),10,6.432285711263971,1
+Humoral,Signaling,10,4.884530239584691,6
+Humoral,Effector (Putative),10,8.737399528573036,3
+Humoral,Recognition,10,6.935025811227756,3
+Humoral,Effector (Lysozyme),12,5.706824413712786,4
+Humoral,Effector (AMP),12,6.225960293854923,1
+Humoral,Signaling,12,4.81603553462066,6
+Humoral,Effector (Putative),12,8.326921832328495,3
+Humoral,Recognition,12,6.9455445612538265,3
+Humoral,Effector (AMP),14,6.259197957288535,1
+Humoral,Effector (Lysozyme),14,5.759310358740919,4
+Humoral,Signaling,14,4.7351502825913,6
+Humoral,Effector (Putative),14,8.238715228367408,3
+Humoral,Recognition,14,6.624539255972066,3
+Humoral,Effector (AMP),16,6.652359359586477,1
+Humoral,Effector (Lysozyme),16,5.809693338819756,4
+Humoral,Signaling,16,4.670882847792789,6
+Humoral,Effector (Putative),16,8.376830209849297,3
+Humoral,Recognition,16,6.846699471712593,3
+Humoral,Effector (Lysozyme),20,5.814216870666575,4
+Humoral,Effector (AMP),20,6.701384518510045,1
+Humoral,Signaling,20,4.637891288794532,6
+Humoral,Effector (Putative),20,8.521040027228896,3
+Humoral,Recognition,20,7.338156997857088,3
+Humoral,Effector (AMP),24,6.660468257907991,1
+Humoral,Effector (Lysozyme),24,5.782263878658856,4
+Humoral,Signaling,24,4.7058243019607024,6
+Humoral,Effector (Putative),24,7.687222676973519,3
+Humoral,Recognition,24,6.380344597141211,3
+Humoral,Effector (Lysozyme),30,5.750729913041946,4
+Humoral,Effector (AMP),30,6.567931069300165,1
+Humoral,Signaling,30,4.796806749415384,6
+Humoral,Effector (Putative),30,8.702864820258968,3
+Humoral,Recognition,30,7.322316164294382,3
+Humoral,Effector (Lysozyme),36,5.774776871075556,4
+Humoral,Effector (AMP),36,6.6426749339181494,1
+Humoral,Signaling,36,4.7558334127659885,6
+Humoral,Effector (Putative),36,7.864926687708757,3
+Humoral,Recognition,36,6.650900857469298,3
+Humoral,Effector (AMP),42,6.919158818830727,1
+Humoral,Effector (Lysozyme),42,5.861871615917461,4
+Humoral,Signaling,42,4.640303121281595,6
+Humoral,Effector (Putative),42,8.389389882956051,3
+Humoral,Recognition,42,7.115822869031213,3
+Humoral,Effector (AMP),48,6.623921038828916,1
+Humoral,Effector (Lysozyme),48,5.701601763962293,4
+Humoral,Signaling,48,4.729415755904234,6
+Humoral,Effector (Putative),48,7.515743587878927,3
+Humoral,Recognition,48,6.611690951497245,3
+Humoral,Effector (Lysozyme),72,5.6487289491558395,4
+Humoral,Effector (AMP),72,6.6342424713143435,1
+Humoral,Signaling,72,4.718007343875734,6
+Humoral,Effector (Putative),72,7.806395301064299,3
+Humoral,Recognition,72,6.791611764237277,3
+Humoral,Effector (AMP),96,6.922774451574584,1
+Humoral,Effector (Lysozyme),96,5.66926896920091,4
+Humoral,Signaling,96,4.765801869915715,6
+Humoral,Effector (Putative),96,7.461433394988501,3
+Humoral,Recognition,96,6.566592116027074,3
+Humoral,Effector (AMP),120,6.919959784824826,1
+Humoral,Effector (Lysozyme),120,5.681887944356063,4
+Humoral,Signaling,120,4.7498958026241755,6
+Humoral,Effector (Putative),120,7.333438832720577,3
+Humoral,Recognition,120,6.658750428591091,3
+Humoral; Cellular,Signaling,0,4.291673689024581,1
+Humoral; Cellular,Recognition,0,8.071945888547466,1
+Humoral; Cellular,Signaling,1,3.9601849967704235,1
+Humoral; Cellular,Recognition,1,8.612262361705678,1
+Humoral; Cellular,Signaling,2,3.9550647357526687,1
+Humoral; Cellular,Recognition,2,8.66585283456876,1
+Humoral; Cellular,Signaling,3,4.187861440164002,1
+Humoral; Cellular,Recognition,3,8.427274404726845,1
+Humoral; Cellular,Signaling,4,4.089848300077268,1
+Humoral; Cellular,Recognition,4,8.315370314837704,1
+Humoral; Cellular,Signaling,5,4.086416802523628,1
+Humoral; Cellular,Recognition,5,8.25965326858021,1
+Humoral; Cellular,Signaling,6,4.347313785318798,1
+Humoral; Cellular,Recognition,6,8.409276031877184,1
+Humoral; Cellular,Signaling,8,4.319052533384786,1
+Humoral; Cellular,Recognition,8,8.067513763335945,1
+Humoral; Cellular,Signaling,10,4.347096178607545,1
+Humoral; Cellular,Recognition,10,8.452183242536771,1
+Humoral; Cellular,Recognition,12,8.491009762893174,1
+Humoral; Cellular,Signaling,12,4.16150060799119,1
+Humoral; Cellular,Recognition,14,8.337054200789781,1
+Humoral; Cellular,Signaling,14,4.3928948975748305,1
+Humoral; Cellular,Recognition,16,8.176982305560632,1
+Humoral; Cellular,Signaling,16,4.308832344642226,1
+Humoral; Cellular,Signaling,20,4.211442135468914,1
+Humoral; Cellular,Recognition,20,8.303703952533088,1
+Humoral; Cellular,Recognition,24,8.326397408377362,1
+Humoral; Cellular,Signaling,24,4.238876139764072,1
+Humoral; Cellular,Recognition,30,8.645600562393149,1
+Humoral; Cellular,Signaling,30,4.394268149164753,1
+Humoral; Cellular,Recognition,36,8.318765227569724,1
+Humoral; Cellular,Signaling,36,4.240973793797497,1
+Humoral; Cellular,Signaling,42,4.126435246877623,1
+Humoral; Cellular,Recognition,42,8.390354593434736,1
+Humoral; Cellular,Signaling,48,4.204463612391072,1
+Humoral; Cellular,Recognition,48,8.561506867698217,1
+Humoral; Cellular,Recognition,72,8.66968928882737,1
+Humoral; Cellular,Signaling,72,4.034944447720784,1
+Humoral; Cellular,Recognition,96,8.62925674836433,1
+Humoral; Cellular,Signaling,96,4.299629288089884,1
+Humoral; Cellular,Signaling,120,4.306710762081856,1
+Humoral; Cellular,Recognition,120,8.69272213274817,1
+Humoral; Epithelial,Signaling,0,5.2835714367773825,1
+Humoral; Epithelial,Signaling,1,5.7196698120508955,1
+Humoral; Epithelial,Signaling,2,5.477270207507759,1
+Humoral; Epithelial,Signaling,3,5.307155020252673,1
+Humoral; Epithelial,Signaling,4,5.17722824034997,1
+Humoral; Epithelial,Signaling,5,5.0857455462763355,1
+Humoral; Epithelial,Signaling,6,5.228483538779534,1
+Humoral; Epithelial,Signaling,8,5.24283745228373,1
+Humoral; Epithelial,Signaling,10,5.273162473604079,1
+Humoral; Epithelial,Signaling,12,5.391918674751388,1
+Humoral; Epithelial,Signaling,14,5.3456826905949875,1
+Humoral; Epithelial,Signaling,16,5.287731220889777,1
+Humoral; Epithelial,Signaling,20,5.138210969406293,1
+Humoral; Epithelial,Signaling,24,5.172816499097676,1
+Humoral; Epithelial,Signaling,30,5.33153268291265,1
+Humoral; Epithelial,Signaling,36,5.513395698204185,1
+Humoral; Epithelial,Signaling,42,5.298073358025053,1
+Humoral; Epithelial,Signaling,48,5.3848589936199325,1
+Humoral; Epithelial,Signaling,72,5.372784074836613,1
+Humoral; Epithelial,Signaling,96,5.40863408881696,1
+Humoral; Epithelial,Signaling,120,5.488976068778033,1
+Humoral; JAK-STAT; Epithelial,Signaling,0,7.726026237517659,1
+Humoral; JAK-STAT; Epithelial,Signaling,1,7.756032454672237,1
+Humoral; JAK-STAT; Epithelial,Signaling,2,7.8188685619580784,1
+Humoral; JAK-STAT; Epithelial,Signaling,3,7.278625507708419,1
+Humoral; JAK-STAT; Epithelial,Signaling,4,7.599882270812589,1
+Humoral; JAK-STAT; Epithelial,Signaling,5,7.676873871059776,1
+Humoral; JAK-STAT; Epithelial,Signaling,6,7.910383871357832,1
+Humoral; JAK-STAT; Epithelial,Signaling,8,7.819685415106775,1
+Humoral; JAK-STAT; Epithelial,Signaling,10,8.120421370345316,1
+Humoral; JAK-STAT; Epithelial,Signaling,12,8.026154986726892,1
+Humoral; JAK-STAT; Epithelial,Signaling,14,8.125265445034403,1
+Humoral; JAK-STAT; Epithelial,Signaling,16,7.800639170832033,1
+Humoral; JAK-STAT; Epithelial,Signaling,20,7.84801399755438,1
+Humoral; JAK-STAT; Epithelial,Signaling,24,7.8744420033289995,1
+Humoral; JAK-STAT; Epithelial,Signaling,30,8.129325454688974,1
+Humoral; JAK-STAT; Epithelial,Signaling,36,7.945275163511638,1
+Humoral; JAK-STAT; Epithelial,Signaling,42,7.801384699939394,1
+Humoral; JAK-STAT; Epithelial,Signaling,48,8.020261300098255,1
+Humoral; JAK-STAT; Epithelial,Signaling,72,8.074639949487315,1
+Humoral; JAK-STAT; Epithelial,Signaling,96,7.943185870902134,1
+Humoral; JAK-STAT; Epithelial,Signaling,120,8.04043780618014,1
+Humoral; Phagocytosis,Signaling,0,7.087178982463931,3
+Humoral; Phagocytosis,Signaling,1,7.4835962580363615,3
+Humoral; Phagocytosis,Signaling,2,7.552242211774885,3
+Humoral; Phagocytosis,Signaling,3,7.3420383926956445,3
+Humoral; Phagocytosis,Signaling,4,7.327834508801974,3
+Humoral; Phagocytosis,Signaling,5,7.047146406687832,3
+Humoral; Phagocytosis,Signaling,6,7.374659778768695,3
+Humoral; Phagocytosis,Signaling,8,7.212894112796326,3
+Humoral; Phagocytosis,Signaling,10,7.092526589431354,3
+Humoral; Phagocytosis,Signaling,12,7.002731348748516,3
+Humoral; Phagocytosis,Signaling,14,7.025648422847447,3
+Humoral; Phagocytosis,Signaling,16,6.957571173340326,3
+Humoral; Phagocytosis,Signaling,20,7.128500834466788,3
+Humoral; Phagocytosis,Signaling,24,6.969077426776685,3
+Humoral; Phagocytosis,Signaling,30,7.184367828871982,3
+Humoral; Phagocytosis,Signaling,36,6.927549339816178,3
+Humoral; Phagocytosis,Signaling,42,6.880149714635722,3
+Humoral; Phagocytosis,Signaling,48,7.155886316821608,3
+Humoral; Phagocytosis,Signaling,72,7.1045658050200515,3
+Humoral; Phagocytosis,Signaling,96,7.185841856660054,3
+Humoral; Phagocytosis,Signaling,120,6.995122271286224,3
+IMD,Effector (AMP),0,3.5328539139210986,12
+IMD,Recognition,0,5.766928065585559,1
+IMD,Signaling,0,5.763312820984818,15
+IMD,Recognition,1,5.925684411890487,1
+IMD,Effector (AMP),1,7.567315757693875,12
+IMD,Signaling,1,6.184222696674343,15
+IMD,Effector (AMP),2,7.985221167017176,12
+IMD,Recognition,2,6.0512440546152355,1
+IMD,Signaling,2,6.210095277078748,15
+IMD,Recognition,3,6.1178219924687385,1
+IMD,Effector (AMP),3,8.074837624067513,12
+IMD,Signaling,3,6.14557107018671,15
+IMD,Effector (AMP),4,7.7950469091592,12
+IMD,Recognition,4,6.141410810049816,1
+IMD,Signaling,4,6.233638268105019,15
+IMD,Recognition,5,6.455134675922588,1
+IMD,Effector (AMP),5,7.508510191227804,12
+IMD,Signaling,5,6.083973791648872,15
+IMD,Recognition,6,6.002671337050914,1
+IMD,Effector (AMP),6,7.268013615422498,12
+IMD,Signaling,6,6.2967237173377955,15
+IMD,Effector (AMP),8,7.480121953036747,12
+IMD,Recognition,8,6.449628226110484,1
+IMD,Signaling,8,6.392805483164633,15
+IMD,Recognition,10,6.434376858984946,1
+IMD,Effector (AMP),10,7.125634003786131,12
+IMD,Signaling,10,6.274317724838317,15
+IMD,Recognition,12,6.269641555206183,1
+IMD,Effector (AMP),12,7.191282062603343,12
+IMD,Signaling,12,6.291167297532424,15
+IMD,Effector (AMP),14,6.635706259925009,12
+IMD,Recognition,14,5.676789878172471,1
+IMD,Signaling,14,6.247115475650244,15
+IMD,Effector (AMP),16,6.551446515762095,12
+IMD,Recognition,16,5.898575459054111,1
+IMD,Signaling,16,6.148556750393747,15
+IMD,Recognition,20,6.259770236985307,1
+IMD,Effector (AMP),20,7.591232784456321,12
+IMD,Signaling,20,6.323743537150071,15
+IMD,Recognition,24,6.152618915597515,1
+IMD,Effector (AMP),24,5.732856027102873,12
+IMD,Signaling,24,5.981506755988249,15
+IMD,Recognition,30,6.669341086749608,1
+IMD,Effector (AMP),30,7.490373919200498,12
+IMD,Signaling,30,6.338871456730308,15
+IMD,Effector (AMP),36,6.662314069189304,12
+IMD,Recognition,36,6.36764447105231,1
+IMD,Signaling,36,6.126305019601375,15
+IMD,Effector (AMP),42,7.197470195339896,12
+IMD,Recognition,42,6.302905302073105,1
+IMD,Signaling,42,6.235449086122671,15
+IMD,Effector (AMP),48,6.534119780336259,12
+IMD,Recognition,48,6.324153601048944,1
+IMD,Signaling,48,6.168261873965179,15
+IMD,Recognition,72,6.455366934259141,1
+IMD,Effector (AMP),72,6.932022089697099,12
+IMD,Signaling,72,6.150587908108817,15
+IMD,Effector (AMP),96,6.774682962652882,12
+IMD,Recognition,96,6.207570643784271,1
+IMD,Signaling,96,6.214272964847183,15
+IMD,Effector (AMP),120,6.326216088809294,12
+IMD,Recognition,120,6.589378547068144,1
+IMD,Signaling,120,6.101595819469908,15
+IMD; Cellular,Signaling,0,6.854586701128447,2
+IMD; Cellular,Signaling,1,6.76809916056847,2
+IMD; Cellular,Signaling,2,6.9243832848514515,2
+IMD; Cellular,Signaling,3,6.774022294750893,2
+IMD; Cellular,Signaling,4,7.100992900340785,2
+IMD; Cellular,Signaling,5,6.646769080755874,2
+IMD; Cellular,Signaling,6,7.144753603819978,2
+IMD; Cellular,Signaling,8,7.06844512085222,2
+IMD; Cellular,Signaling,10,6.948167404100618,2
+IMD; Cellular,Signaling,12,6.914978255629486,2
+IMD; Cellular,Signaling,14,6.95219131150184,2
+IMD; Cellular,Signaling,16,6.882493005646494,2
+IMD; Cellular,Signaling,20,6.872230940790952,2
+IMD; Cellular,Signaling,24,6.83326384487097,2
+IMD; Cellular,Signaling,30,6.924584810685223,2
+IMD; Cellular,Signaling,36,6.994410498389209,2
+IMD; Cellular,Signaling,42,6.861400109797238,2
+IMD; Cellular,Signaling,48,6.9315977011651055,2
+IMD; Cellular,Signaling,72,6.9789126205402425,2
+IMD; Cellular,Signaling,96,6.989762990633341,2
+IMD; Cellular,Signaling,120,6.899379535492226,2
+IMD; Cellular; Wound repair,Signaling,0,5.989309801098591,1
+IMD; Cellular; Wound repair,Signaling,1,6.4067649561888,1
+IMD; Cellular; Wound repair,Signaling,2,6.3186890502410336,1
+IMD; Cellular; Wound repair,Signaling,3,6.1251490707062715,1
+IMD; Cellular; Wound repair,Signaling,4,6.071967945563234,1
+IMD; Cellular; Wound repair,Signaling,5,5.651443099808244,1
+IMD; Cellular; Wound repair,Signaling,6,6.156967434066326,1
+IMD; Cellular; Wound repair,Signaling,8,6.09624397356984,1
+IMD; Cellular; Wound repair,Signaling,10,6.227099297692795,1
+IMD; Cellular; Wound repair,Signaling,12,6.264110934048652,1
+IMD; Cellular; Wound repair,Signaling,14,6.251985243895536,1
+IMD; Cellular; Wound repair,Signaling,16,6.230683128077738,1
+IMD; Cellular; Wound repair,Signaling,20,6.26207732305367,1
+IMD; Cellular; Wound repair,Signaling,24,6.185264923855907,1
+IMD; Cellular; Wound repair,Signaling,30,6.175730371703775,1
+IMD; Cellular; Wound repair,Signaling,36,6.334369796085485,1
+IMD; Cellular; Wound repair,Signaling,42,6.298375500769105,1
+IMD; Cellular; Wound repair,Signaling,48,6.3429940036775925,1
+IMD; Cellular; Wound repair,Signaling,72,6.2884694867883715,1
+IMD; Cellular; Wound repair,Signaling,96,6.577719211675257,1
+IMD; Cellular; Wound repair,Signaling,120,6.468205056296892,1
+IMD; Epithelial,Recognition,0,3.3054501781484658,6
+IMD; Epithelial,Signaling,0,3.4831622146679804,1
+IMD; Epithelial,Recognition,1,4.234541771024799,6
+IMD; Epithelial,Signaling,1,6.340157023979479,1
+IMD; Epithelial,Recognition,2,4.058492921905734,6
+IMD; Epithelial,Signaling,2,5.426115029114364,1
+IMD; Epithelial,Recognition,3,3.7934711688671174,6
+IMD; Epithelial,Signaling,3,4.619994792690986,1
+IMD; Epithelial,Recognition,4,3.6442943400676135,6
+IMD; Epithelial,Signaling,4,5.09112467056516,1
+IMD; Epithelial,Recognition,5,3.51324127305965,6
+IMD; Epithelial,Signaling,5,5.175472620065655,1
+IMD; Epithelial,Recognition,6,3.4333784455829446,6
+IMD; Epithelial,Signaling,6,4.853699372510422,1
+IMD; Epithelial,Recognition,8,3.6078861162978932,6
+IMD; Epithelial,Signaling,8,5.061722383357628,1
+IMD; Epithelial,Recognition,10,3.6659926468515196,6
+IMD; Epithelial,Signaling,10,5.201348986010383,1
+IMD; Epithelial,Recognition,12,3.560722232098886,6
+IMD; Epithelial,Signaling,12,4.738673931325749,1
+IMD; Epithelial,Recognition,14,3.414177786404778,6
+IMD; Epithelial,Signaling,14,4.118201552238377,1
+IMD; Epithelial,Recognition,16,3.3045091833547295,6
+IMD; Epithelial,Signaling,16,4.17407256616932,1
+IMD; Epithelial,Recognition,20,3.572284901209264,6
+IMD; Epithelial,Signaling,20,4.764367090628591,1
+IMD; Epithelial,Recognition,24,3.575576756384265,6
+IMD; Epithelial,Signaling,24,4.5960499336581675,1
+IMD; Epithelial,Recognition,30,3.8011982157208712,6
+IMD; Epithelial,Signaling,30,5.532512177679347,1
+IMD; Epithelial,Recognition,36,3.8431480783154917,6
+IMD; Epithelial,Signaling,36,5.305226881095855,1
+IMD; Epithelial,Recognition,42,3.7547222159437776,6
+IMD; Epithelial,Signaling,42,5.2431516096513615,1
+IMD; Epithelial,Recognition,48,3.7614324723697723,6
+IMD; Epithelial,Signaling,48,5.587176780426127,1
+IMD; Epithelial,Recognition,72,3.7481551204080326,6
+IMD; Epithelial,Signaling,72,5.1880083275791,1
+IMD; Epithelial,Recognition,96,3.6815053766587282,6
+IMD; Epithelial,Signaling,96,5.393986758779755,1
+IMD; Epithelial,Recognition,120,3.9014850878559795,6
+IMD; Epithelial,Signaling,120,5.356900015913915,1
+IMD; JAK-STAT,Effector (Putative),0,7.662864040535485,1
+IMD; JAK-STAT,Effector (Putative),1,5.833722903600183,1
+IMD; JAK-STAT,Effector (Putative),2,7.992563351692107,1
+IMD; JAK-STAT,Effector (Putative),3,8.151430323214925,1
+IMD; JAK-STAT,Effector (Putative),4,9.509871050353134,1
+IMD; JAK-STAT,Effector (Putative),5,10.69018287721161,1
+IMD; JAK-STAT,Effector (Putative),6,11.046324170464256,1
+IMD; JAK-STAT,Effector (Putative),8,11.758472982216572,1
+IMD; JAK-STAT,Effector (Putative),10,12.052211549051204,1
+IMD; JAK-STAT,Effector (Putative),12,12.602885566277699,1
+IMD; JAK-STAT,Effector (Putative),14,12.200760682257881,1
+IMD; JAK-STAT,Effector (Putative),16,11.454819984529756,1
+IMD; JAK-STAT,Effector (Putative),20,11.748463088490823,1
+IMD; JAK-STAT,Effector (Putative),24,10.564423412362093,1
+IMD; JAK-STAT,Effector (Putative),30,10.701260244940308,1
+IMD; JAK-STAT,Effector (Putative),36,9.957016051411252,1
+IMD; JAK-STAT,Effector (Putative),42,9.749955853537097,1
+IMD; JAK-STAT,Effector (Putative),48,8.783194038706535,1
+IMD; JAK-STAT,Effector (Putative),72,6.808217066416408,1
+IMD; JAK-STAT,Effector (Putative),96,7.395830774394014,1
+IMD; JAK-STAT,Effector (Putative),120,6.235910577352049,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),0,4.693645197271242,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,0,4.261023322967324,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),1,5.005494569093193,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,1,2.3758062295266793,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),2,5.860449262152413,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,2,4.202664411590658,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),3,5.856213335149649,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,3,5.9593678542381285,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),4,5.829467815677937,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,4,8.499634198059711,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),5,6.534501827602947,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,5,9.807751344091287,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),6,6.205546533326618,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,6,10.141884614301137,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),8,5.792100841342185,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,8,10.643093457269886,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),10,5.804560277566937,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,10,10.876383810503835,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),12,5.56600750336287,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,12,11.339241023421229,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),14,6.275970225636488,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,14,10.53046090954853,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),16,6.215959411467625,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,16,9.831316544890182,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),20,6.726149061115271,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,20,9.880590040168592,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),24,5.116270683107241,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,24,8.554487795474081,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),30,5.9891588474424315,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,30,9.37024578505661,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),36,5.61090373352423,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,36,8.668281895251166,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),42,6.2528825229183935,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,42,8.446318955973661,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),48,5.630492781912071,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,48,7.077534396909899,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),72,5.846051737596604,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,72,4.9547189998858485,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),96,5.889849976029037,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,96,4.8337893447130895,1
+IMD; JAK-STAT; Anti-viral,Effector (AMP),120,5.719108558879139,1
+IMD; JAK-STAT; Anti-viral,Anti-viral,120,3.8871998705344915,1
+IMD; JNK,Signaling,0,4.636691049512018,3
+IMD; JNK,Signaling,1,4.795215339340656,3
+IMD; JNK,Signaling,2,4.908028142665144,3
+IMD; JNK,Signaling,3,4.842448339880812,3
+IMD; JNK,Signaling,4,4.899166777660999,3
+IMD; JNK,Signaling,5,4.710812192642263,3
+IMD; JNK,Signaling,6,4.918137188717034,3
+IMD; JNK,Signaling,8,4.890961079735754,3
+IMD; JNK,Signaling,10,4.853216959902768,3
+IMD; JNK,Signaling,12,4.838130315212269,3
+IMD; JNK,Signaling,14,4.853429984568991,3
+IMD; JNK,Signaling,16,4.78706471441224,3
+IMD; JNK,Signaling,20,4.7591956209917425,3
+IMD; JNK,Signaling,24,4.68482806348563,3
+IMD; JNK,Signaling,30,4.7866289023431206,3
+IMD; JNK,Signaling,36,4.866149727008379,3
+IMD; JNK,Signaling,42,4.755480443528316,3
+IMD; JNK,Signaling,48,4.814323212532508,3
+IMD; JNK,Signaling,72,4.780512935722406,3
+IMD; JNK,Signaling,96,4.952526811202643,3
+IMD; JNK,Signaling,120,4.932631310553533,3
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,0,5.527924655009585,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,1,6.208514638970097,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,2,6.129463320652134,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,3,5.945244402753345,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,4,5.601734085294161,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,5,5.420707273496522,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,6,5.629669698811776,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,8,5.605002192884464,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,10,5.690161317968287,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,12,5.753807285406564,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,14,5.729522576089588,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,16,5.567373633290898,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,20,5.705506419468068,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,24,5.849823837014201,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,30,5.79733883317986,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,36,5.91742409960713,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,42,5.7443403896002945,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,48,5.8213290652672445,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,72,5.8505917328639185,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,96,5.990790290728898,1
+IMD; JNK; Encapsulation; Phagocytosis; Wound,Signaling,120,5.920451767598612,1
+IMD; JNK; PO-Melanization,Signaling,0,5.966620990996293,1
+IMD; JNK; PO-Melanization,Signaling,1,6.848100729489999,1
+IMD; JNK; PO-Melanization,Signaling,2,7.022245795306457,1
+IMD; JNK; PO-Melanization,Signaling,3,7.144441021232188,1
+IMD; JNK; PO-Melanization,Signaling,4,6.750450856897773,1
+IMD; JNK; PO-Melanization,Signaling,5,6.520988862448128,1
+IMD; JNK; PO-Melanization,Signaling,6,6.283286363795348,1
+IMD; JNK; PO-Melanization,Signaling,8,6.686311738120885,1
+IMD; JNK; PO-Melanization,Signaling,10,6.892879350276374,1
+IMD; JNK; PO-Melanization,Signaling,12,6.949587253948616,1
+IMD; JNK; PO-Melanization,Signaling,14,6.6945410229764395,1
+IMD; JNK; PO-Melanization,Signaling,16,6.500145073225651,1
+IMD; JNK; PO-Melanization,Signaling,20,6.509279041579363,1
+IMD; JNK; PO-Melanization,Signaling,24,6.151643995882175,1
+IMD; JNK; PO-Melanization,Signaling,30,6.3586839690731125,1
+IMD; JNK; PO-Melanization,Signaling,36,6.582032042256417,1
+IMD; JNK; PO-Melanization,Signaling,42,6.468135018516511,1
+IMD; JNK; PO-Melanization,Signaling,48,6.024735587702207,1
+IMD; JNK; PO-Melanization,Signaling,72,6.022404849079702,1
+IMD; JNK; PO-Melanization,Signaling,96,5.852604124678747,1
+IMD; JNK; PO-Melanization,Signaling,120,6.012154566509784,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,0,5.5667728794549385,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,1,6.358472825478695,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,2,6.166383289289876,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,3,5.923796548421365,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,4,5.840707731805809,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,5,5.673962351655053,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,6,5.785376885023447,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,8,5.704948737128987,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,10,5.6485815712538185,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,12,5.693160709117416,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,14,5.749583347692122,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,16,5.595273013453259,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,20,5.658683524548671,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,24,5.584798409601214,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,30,5.618651540422292,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,36,5.692165510090819,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,42,5.610274238446512,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,48,5.7647010376711485,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,72,5.693845934589119,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,96,6.042639612757066,1
+IMD; JNK; Phagocytosis; Wound repair,Signaling,120,5.852608217923697,1
+IMD; JNK; Wound repair,Signaling,0,7.832195510870207,1
+IMD; JNK; Wound repair,Signaling,1,8.11946386121037,1
+IMD; JNK; Wound repair,Signaling,2,8.096029023511703,1
+IMD; JNK; Wound repair,Signaling,3,7.988530093181314,1
+IMD; JNK; Wound repair,Signaling,4,7.936834889083773,1
+IMD; JNK; Wound repair,Signaling,5,7.65369364392034,1
+IMD; JNK; Wound repair,Signaling,6,8.054687354224669,1
+IMD; JNK; Wound repair,Signaling,8,8.000443872872875,1
+IMD; JNK; Wound repair,Signaling,10,8.057659793880417,1
+IMD; JNK; Wound repair,Signaling,12,8.05129298773668,1
+IMD; JNK; Wound repair,Signaling,14,7.912329299307844,1
+IMD; JNK; Wound repair,Signaling,16,7.8972569108859085,1
+IMD; JNK; Wound repair,Signaling,20,7.870237295209363,1
+IMD; JNK; Wound repair,Signaling,24,8.013007266541987,1
+IMD; JNK; Wound repair,Signaling,30,7.9812066278164275,1
+IMD; JNK; Wound repair,Signaling,36,8.005620698947869,1
+IMD; JNK; Wound repair,Signaling,42,7.878358231056875,1
+IMD; JNK; Wound repair,Signaling,48,8.065430255801697,1
+IMD; JNK; Wound repair,Signaling,72,7.925937109969404,1
+IMD; JNK; Wound repair,Signaling,96,8.145310149000103,1
+IMD; JNK; Wound repair,Signaling,120,8.027147603656182,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,0,5.344387198408693,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,1,5.515424281866423,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,2,5.581022182345981,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,3,5.561328193522531,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,4,5.583275815752859,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,5,5.384936000256776,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,6,5.515694576414991,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,8,5.461764063438322,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,10,5.610480561957101,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,12,5.5840661910405505,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,14,5.430431884570412,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,16,5.370494978436858,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,20,5.318034838033619,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,24,5.4250192464269364,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,30,5.461740735630292,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,36,5.401655549450837,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,42,5.279451427768805,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,48,5.364498253020384,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,72,5.330524824434055,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,96,5.354990936262441,1
+IMD; JNK; Wound repair; Anti-viral,Signaling,120,5.406490219310365,1
+IMD; Phagocytosis; Epithelial,Recognition,0,4.196046619236222,2
+IMD; Phagocytosis; Epithelial,Recognition,1,5.003370981330044,2
+IMD; Phagocytosis; Epithelial,Recognition,2,4.989493841711649,2
+IMD; Phagocytosis; Epithelial,Recognition,3,4.835471977700311,2
+IMD; Phagocytosis; Epithelial,Recognition,4,4.603293279573327,2
+IMD; Phagocytosis; Epithelial,Recognition,5,4.5809171546929095,2
+IMD; Phagocytosis; Epithelial,Recognition,6,4.19929704866254,2
+IMD; Phagocytosis; Epithelial,Recognition,8,4.2821805037207135,2
+IMD; Phagocytosis; Epithelial,Recognition,10,4.544420439513726,2
+IMD; Phagocytosis; Epithelial,Recognition,12,4.356263688125332,2
+IMD; Phagocytosis; Epithelial,Recognition,14,4.220755904770992,2
+IMD; Phagocytosis; Epithelial,Recognition,16,3.9999561368843137,2
+IMD; Phagocytosis; Epithelial,Recognition,20,4.45043441178513,2
+IMD; Phagocytosis; Epithelial,Recognition,24,4.545649802471641,2
+IMD; Phagocytosis; Epithelial,Recognition,30,4.672831746089217,2
+IMD; Phagocytosis; Epithelial,Recognition,36,4.9384612826362275,2
+IMD; Phagocytosis; Epithelial,Recognition,42,4.5906612281476455,2
+IMD; Phagocytosis; Epithelial,Recognition,48,4.90400952242479,2
+IMD; Phagocytosis; Epithelial,Recognition,72,5.005555955228683,2
+IMD; Phagocytosis; Epithelial,Recognition,96,4.583351670653373,2
+IMD; Phagocytosis; Epithelial,Recognition,120,5.295302288409102,2
+IMD; ROS,Signaling,0,3.752001134488487,1
+IMD; ROS,Signaling,1,3.748403657874559,1
+IMD; ROS,Signaling,2,3.7025995180051354,1
+IMD; ROS,Signaling,3,3.83644046751788,1
+IMD; ROS,Signaling,4,3.844626249755803,1
+IMD; ROS,Signaling,5,3.4709311310488578,1
+IMD; ROS,Signaling,6,3.797757919785862,1
+IMD; ROS,Signaling,8,3.71711850758231,1
+IMD; ROS,Signaling,10,3.6666740280798926,1
+IMD; ROS,Signaling,12,3.7114758237045513,1
+IMD; ROS,Signaling,14,3.8112585924965963,1
+IMD; ROS,Signaling,16,3.7239475067429977,1
+IMD; ROS,Signaling,20,3.7590354393825303,1
+IMD; ROS,Signaling,24,3.5526022137540894,1
+IMD; ROS,Signaling,30,3.538315444905451,1
+IMD; ROS,Signaling,36,3.7878139386931298,1
+IMD; ROS,Signaling,42,3.5574306210758433,1
+IMD; ROS,Signaling,48,3.6050982065433494,1
+IMD; ROS,Signaling,72,3.70052760073839,1
+IMD; ROS,Signaling,96,3.6398487574485667,1
+IMD; ROS,Signaling,120,3.5167591999154286,1
+IMD; Toll,Signaling,0,6.02640962159907,2
+IMD; Toll,Signaling,1,6.626167719830162,2
+IMD; Toll,Signaling,2,6.801696981445552,2
+IMD; Toll,Signaling,3,6.455790564101202,2
+IMD; Toll,Signaling,4,6.355027917056336,2
+IMD; Toll,Signaling,5,5.90712271060222,2
+IMD; Toll,Signaling,6,6.265853568066237,2
+IMD; Toll,Signaling,8,6.229496782446981,2
+IMD; Toll,Signaling,10,6.283420507018029,2
+IMD; Toll,Signaling,12,6.328788828655203,2
+IMD; Toll,Signaling,14,6.234644598820156,2
+IMD; Toll,Signaling,16,6.152149975096701,2
+IMD; Toll,Signaling,20,6.14078947236171,2
+IMD; Toll,Signaling,24,6.125214405604826,2
+IMD; Toll,Signaling,30,6.277011992755554,2
+IMD; Toll,Signaling,36,6.18009576728766,2
+IMD; Toll,Signaling,42,6.161807907585557,2
+IMD; Toll,Signaling,48,6.175728658487363,2
+IMD; Toll,Signaling,72,6.264330857464403,2
+IMD; Toll,Signaling,96,6.215929043328321,2
+IMD; Toll,Signaling,120,6.243725117434515,2
+IMD; Toll; Anti-viral,Signaling,0,5.56399975101082,1
+IMD; Toll; Anti-viral,Signaling,1,5.852936173707857,1
+IMD; Toll; Anti-viral,Signaling,2,5.916116769686386,1
+IMD; Toll; Anti-viral,Signaling,3,5.769363381647577,1
+IMD; Toll; Anti-viral,Signaling,4,5.771643266155052,1
+IMD; Toll; Anti-viral,Signaling,5,5.707359603255475,1
+IMD; Toll; Anti-viral,Signaling,6,5.8015620133047445,1
+IMD; Toll; Anti-viral,Signaling,8,5.741254897435128,1
+IMD; Toll; Anti-viral,Signaling,10,5.6962904764885955,1
+IMD; Toll; Anti-viral,Signaling,12,5.721637137826628,1
+IMD; Toll; Anti-viral,Signaling,14,5.846412568363987,1
+IMD; Toll; Anti-viral,Signaling,16,5.7019017856950445,1
+IMD; Toll; Anti-viral,Signaling,20,5.694069382069431,1
+IMD; Toll; Anti-viral,Signaling,24,5.698860897009096,1
+IMD; Toll; Anti-viral,Signaling,30,5.689691666828226,1
+IMD; Toll; Anti-viral,Signaling,36,5.749564726407229,1
+IMD; Toll; Anti-viral,Signaling,42,5.689536636874262,1
+IMD; Toll; Anti-viral,Signaling,48,5.677495195033625,1
+IMD; Toll; Anti-viral,Signaling,72,5.683898430575939,1
+IMD; Toll; Anti-viral,Signaling,96,6.536967572625181,1
+IMD; Toll; Anti-viral,Signaling,120,6.327739320352446,1
+IMD; Toll; Phagocyosis,Signaling,0,7.410662200301536,1
+IMD; Toll; Phagocyosis,Signaling,1,7.345092029105341,1
+IMD; Toll; Phagocyosis,Signaling,2,7.356606711983565,1
+IMD; Toll; Phagocyosis,Signaling,3,7.2468310834294964,1
+IMD; Toll; Phagocyosis,Signaling,4,7.5010829674967745,1
+IMD; Toll; Phagocyosis,Signaling,5,7.134749928288608,1
+IMD; Toll; Phagocyosis,Signaling,6,7.563423000664854,1
+IMD; Toll; Phagocyosis,Signaling,8,7.502220590151548,1
+IMD; Toll; Phagocyosis,Signaling,10,7.524252283201271,1
+IMD; Toll; Phagocyosis,Signaling,12,7.509840645425067,1
+IMD; Toll; Phagocyosis,Signaling,14,7.506505031746273,1
+IMD; Toll; Phagocyosis,Signaling,16,7.458117251410733,1
+IMD; Toll; Phagocyosis,Signaling,20,7.401158457595139,1
+IMD; Toll; Phagocyosis,Signaling,24,7.355895169506976,1
+IMD; Toll; Phagocyosis,Signaling,30,7.448243614922479,1
+IMD; Toll; Phagocyosis,Signaling,36,7.594311354252827,1
+IMD; Toll; Phagocyosis,Signaling,42,7.471395730125848,1
+IMD; Toll; Phagocyosis,Signaling,48,7.440279353802823,1
+IMD; Toll; Phagocyosis,Signaling,72,7.420146568727366,1
+IMD; Toll; Phagocyosis,Signaling,96,7.458997149851379,1
+IMD; Toll; Phagocyosis,Signaling,120,7.370467892930571,1
+JAK-STAT,Signaling,0,5.1880715171640315,9
+JAK-STAT,Effector (Putative),0,6.733422354177901,1
+JAK-STAT,Signaling,1,5.30810261299801,9
+JAK-STAT,Effector (Putative),1,4.527304017096981,1
+JAK-STAT,Signaling,2,5.4608843462452334,9
+JAK-STAT,Effector (Putative),2,6.996144825140251,1
+JAK-STAT,Signaling,3,5.3257673141625315,9
+JAK-STAT,Effector (Putative),3,7.008420052969619,1
+JAK-STAT,Signaling,4,5.541175086586648,9
+JAK-STAT,Effector (Putative),4,8.566645004634271,1
+JAK-STAT,Signaling,5,5.142009638986486,9
+JAK-STAT,Effector (Putative),5,10.003494420895459,1
+JAK-STAT,Signaling,6,5.600642794787351,9
+JAK-STAT,Effector (Putative),6,10.121857168069234,1
+JAK-STAT,Signaling,8,5.476903574811054,9
+JAK-STAT,Effector (Putative),8,10.981132885226724,1
+JAK-STAT,Signaling,10,5.389186317657341,9
+JAK-STAT,Effector (Putative),10,11.29770535936673,1
+JAK-STAT,Signaling,12,5.359021424763385,9
+JAK-STAT,Effector (Putative),12,11.859119004529541,1
+JAK-STAT,Signaling,14,5.342992197176128,9
+JAK-STAT,Effector (Putative),14,11.33350694045268,1
+JAK-STAT,Signaling,16,5.300737501107204,9
+JAK-STAT,Effector (Putative),16,10.715493589442252,1
+JAK-STAT,Signaling,20,5.331034115412732,9
+JAK-STAT,Effector (Putative),20,10.948934188274986,1
+JAK-STAT,Signaling,24,5.161274715388732,9
+JAK-STAT,Effector (Putative),24,9.546044885060834,1
+JAK-STAT,Signaling,30,5.3150096562951035,9
+JAK-STAT,Effector (Putative),30,9.616299960152425,1
+JAK-STAT,Signaling,36,5.334041455797154,9
+JAK-STAT,Effector (Putative),36,8.73680236123699,1
+JAK-STAT,Signaling,42,5.1879916283182546,9
+JAK-STAT,Effector (Putative),42,8.636115479155757,1
+JAK-STAT,Signaling,48,5.253784859480221,9
+JAK-STAT,Effector (Putative),48,7.2908887460425955,1
+JAK-STAT,Signaling,72,5.26102672880703,9
+JAK-STAT,Effector (Putative),72,5.007923202218123,1
+JAK-STAT,Signaling,96,5.41175595571184,9
+JAK-STAT,Effector (Putative),96,6.110784233997913,1
+JAK-STAT,Signaling,120,5.260902099007878,9
+JAK-STAT,Effector (Putative),120,4.44731651262039,1
+JAK-STAT; Anti-viral,Signaling,0,3.234683232211709,2
+JAK-STAT; Anti-viral,Recognition,0,3.965704222727468,1
+JAK-STAT; Anti-viral,Anti-viral,0,9.378338365870047,1
+JAK-STAT; Anti-viral,Signaling,1,2.718151985013843,2
+JAK-STAT; Anti-viral,Recognition,1,4.309223926619719,1
+JAK-STAT; Anti-viral,Anti-viral,1,9.722869467015906,1
+JAK-STAT; Anti-viral,Recognition,2,4.8329521661548185,1
+JAK-STAT; Anti-viral,Signaling,2,2.8673849793258777,2
+JAK-STAT; Anti-viral,Anti-viral,2,9.821716431503795,1
+JAK-STAT; Anti-viral,Signaling,3,3.224614895365928,2
+JAK-STAT; Anti-viral,Recognition,3,5.32180557798515,1
+JAK-STAT; Anti-viral,Anti-viral,3,9.876284062552745,1
+JAK-STAT; Anti-viral,Recognition,4,4.926297177081514,1
+JAK-STAT; Anti-viral,Signaling,4,5.8051692688437235,2
+JAK-STAT; Anti-viral,Anti-viral,4,9.474373107469521,1
+JAK-STAT; Anti-viral,Recognition,5,5.088098334221965,1
+JAK-STAT; Anti-viral,Signaling,5,6.481347793582897,2
+JAK-STAT; Anti-viral,Anti-viral,5,9.784557648095317,1
+JAK-STAT; Anti-viral,Signaling,6,6.673552457950523,2
+JAK-STAT; Anti-viral,Recognition,6,5.361368565253413,1
+JAK-STAT; Anti-viral,Anti-viral,6,9.462578946801493,1
+JAK-STAT; Anti-viral,Signaling,8,6.93331984331621,2
+JAK-STAT; Anti-viral,Recognition,8,4.502193509133637,1
+JAK-STAT; Anti-viral,Anti-viral,8,9.379720076199202,1
+JAK-STAT; Anti-viral,Signaling,10,7.0704875679834,2
+JAK-STAT; Anti-viral,Recognition,10,4.344538047902334,1
+JAK-STAT; Anti-viral,Anti-viral,10,9.576085460491296,1
+JAK-STAT; Anti-viral,Signaling,12,7.127091482591641,2
+JAK-STAT; Anti-viral,Recognition,12,4.472058568954236,1
+JAK-STAT; Anti-viral,Anti-viral,12,9.568093881142097,1
+JAK-STAT; Anti-viral,Signaling,14,6.364375006339746,2
+JAK-STAT; Anti-viral,Recognition,14,5.622045327507012,1
+JAK-STAT; Anti-viral,Anti-viral,14,9.547282168201445,1
+JAK-STAT; Anti-viral,Signaling,16,5.691916141239683,2
+JAK-STAT; Anti-viral,Recognition,16,5.011668988785809,1
+JAK-STAT; Anti-viral,Anti-viral,16,9.528346982741914,1
+JAK-STAT; Anti-viral,Recognition,20,5.090477637037777,1
+JAK-STAT; Anti-viral,Signaling,20,5.3847816383386355,2
+JAK-STAT; Anti-viral,Anti-viral,20,9.605844847267706,1
+JAK-STAT; Anti-viral,Signaling,24,4.503986683711423,2
+JAK-STAT; Anti-viral,Recognition,24,4.54398328488292,1
+JAK-STAT; Anti-viral,Anti-viral,24,9.400068251207195,1
+JAK-STAT; Anti-viral,Signaling,30,5.386423289643334,2
+JAK-STAT; Anti-viral,Recognition,30,4.990446262164749,1
+JAK-STAT; Anti-viral,Anti-viral,30,9.50396938911523,1
+JAK-STAT; Anti-viral,Recognition,36,5.098215541757666,1
+JAK-STAT; Anti-viral,Signaling,36,4.655696611639178,2
+JAK-STAT; Anti-viral,Anti-viral,36,9.603629109126743,1
+JAK-STAT; Anti-viral,Signaling,42,4.288687215891062,2
+JAK-STAT; Anti-viral,Recognition,42,5.168231787412344,1
+JAK-STAT; Anti-viral,Anti-viral,42,9.50701852027081,1
+JAK-STAT; Anti-viral,Recognition,48,4.638086283979021,1
+JAK-STAT; Anti-viral,Signaling,48,3.5055518698261743,2
+JAK-STAT; Anti-viral,Anti-viral,48,9.400994372048768,1
+JAK-STAT; Anti-viral,Signaling,72,2.950697387499342,2
+JAK-STAT; Anti-viral,Recognition,72,4.820663286862459,1
+JAK-STAT; Anti-viral,Anti-viral,72,9.459887903900377,1
+JAK-STAT; Anti-viral,Signaling,96,3.033893612870783,2
+JAK-STAT; Anti-viral,Recognition,96,6.119725234351929,1
+JAK-STAT; Anti-viral,Anti-viral,96,9.939475382064082,1
+JAK-STAT; Anti-viral,Signaling,120,2.830236065654429,2
+JAK-STAT; Anti-viral,Recognition,120,5.736575339984112,1
+JAK-STAT; Anti-viral,Anti-viral,120,9.91956128154741,1
+JAK-STAT; Cellular,Signaling,0,6.284424569073071,1
+JAK-STAT; Cellular,Signaling,1,6.22397694290919,1
+JAK-STAT; Cellular,Signaling,2,6.275736672404621,1
+JAK-STAT; Cellular,Signaling,3,6.1864714559426135,1
+JAK-STAT; Cellular,Signaling,4,6.312204456087145,1
+JAK-STAT; Cellular,Signaling,5,6.034050276248998,1
+JAK-STAT; Cellular,Signaling,6,6.350400276834407,1
+JAK-STAT; Cellular,Signaling,8,6.311075265477769,1
+JAK-STAT; Cellular,Signaling,10,6.237812871649606,1
+JAK-STAT; Cellular,Signaling,12,6.239223754322259,1
+JAK-STAT; Cellular,Signaling,14,6.37178215473206,1
+JAK-STAT; Cellular,Signaling,16,6.261706555295623,1
+JAK-STAT; Cellular,Signaling,20,6.1992116410605895,1
+JAK-STAT; Cellular,Signaling,24,6.191211400579883,1
+JAK-STAT; Cellular,Signaling,30,6.255680864668731,1
+JAK-STAT; Cellular,Signaling,36,6.32955310997582,1
+JAK-STAT; Cellular,Signaling,42,6.247853705618079,1
+JAK-STAT; Cellular,Signaling,48,6.27988050337877,1
+JAK-STAT; Cellular,Signaling,72,6.220038446478259,1
+JAK-STAT; Cellular,Signaling,96,6.149012597140656,1
+JAK-STAT; Cellular,Signaling,120,6.198871561653981,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,0,6.233956622499335,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,1,6.010062833984261,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,2,5.944070967577332,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,3,5.633568573681999,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,4,5.235647218613836,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,5,5.700976769136059,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,6,5.759260177660294,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,8,6.356225879541635,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,10,6.762363099474152,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,12,6.842477028374706,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,14,5.961963999046392,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,16,5.467926032978544,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,20,5.7348152079168475,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,24,7.0740361372341605,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,30,6.563255995645781,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,36,6.861945529807695,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,42,6.093947833998239,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,48,6.519209530930237,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,72,6.709697044043652,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,96,6.99663754975118,1
+JAK-STAT; Coagulation; PO-Melanization,Signaling,120,7.2033622382532165,1
+JAK-STAT; Encapsulation,Signaling,0,3.4234128136589153,1
+JAK-STAT; Encapsulation,Signaling,1,3.2100765427538915,1
+JAK-STAT; Encapsulation,Signaling,2,3.215139261067794,1
+JAK-STAT; Encapsulation,Signaling,3,3.9539581886674724,1
+JAK-STAT; Encapsulation,Signaling,4,5.446989040193245,1
+JAK-STAT; Encapsulation,Signaling,5,5.676342442462653,1
+JAK-STAT; Encapsulation,Signaling,6,5.822833160764947,1
+JAK-STAT; Encapsulation,Signaling,8,5.260091582247579,1
+JAK-STAT; Encapsulation,Signaling,10,5.2029176898825495,1
+JAK-STAT; Encapsulation,Signaling,12,4.3142255140613415,1
+JAK-STAT; Encapsulation,Signaling,14,3.989204971544412,1
+JAK-STAT; Encapsulation,Signaling,16,4.115507906069939,1
+JAK-STAT; Encapsulation,Signaling,20,3.652481539093871,1
+JAK-STAT; Encapsulation,Signaling,24,3.702438840487427,1
+JAK-STAT; Encapsulation,Signaling,30,4.7666640825200615,1
+JAK-STAT; Encapsulation,Signaling,36,3.7119664368694902,1
+JAK-STAT; Encapsulation,Signaling,42,3.742638035072192,1
+JAK-STAT; Encapsulation,Signaling,48,3.6276747420618634,1
+JAK-STAT; Encapsulation,Signaling,72,3.617383782388142,1
+JAK-STAT; Encapsulation,Signaling,96,3.9183170104941647,1
+JAK-STAT; Encapsulation,Signaling,120,3.914209616835275,1
+JAK-STAT; Epithelial,Signaling,0,0.6470324205439857,1
+JAK-STAT; Epithelial,Signaling,1,1.8482262733365098,1
+JAK-STAT; Epithelial,Signaling,2,1.746213209116366,1
+JAK-STAT; Epithelial,Signaling,3,2.1652519901889455,1
+JAK-STAT; Epithelial,Signaling,4,1.581467334678213,1
+JAK-STAT; Epithelial,Signaling,5,1.4641449249568006,1
+JAK-STAT; Epithelial,Signaling,6,2.0434127466256786,1
+JAK-STAT; Epithelial,Signaling,8,1.0648555974841942,1
+JAK-STAT; Epithelial,Signaling,10,1.1571846974139715,1
+JAK-STAT; Epithelial,Signaling,12,1.319078488020766,1
+JAK-STAT; Epithelial,Signaling,14,1.7113912399085984,1
+JAK-STAT; Epithelial,Signaling,16,0.9586282648676944,1
+JAK-STAT; Epithelial,Signaling,20,1.5213295015130603,1
+JAK-STAT; Epithelial,Signaling,24,0.9810525161824611,1
+JAK-STAT; Epithelial,Signaling,30,1.373054151395589,1
+JAK-STAT; Epithelial,Signaling,36,1.356752990365658,1
+JAK-STAT; Epithelial,Signaling,42,0.8857442164548234,1
+JAK-STAT; Epithelial,Signaling,48,1.1019845236598593,1
+JAK-STAT; Epithelial,Signaling,72,1.0536335867169622,1
+JAK-STAT; Epithelial,Signaling,96,2.5668885815184694,1
+JAK-STAT; Epithelial,Signaling,120,2.0877519924493164,1
+JAK-STAT; Phagocytosis,Signaling,0,7.400222491242086,1
+JAK-STAT; Phagocytosis,Signaling,1,7.43696032946975,1
+JAK-STAT; Phagocytosis,Signaling,2,7.426334520726492,1
+JAK-STAT; Phagocytosis,Signaling,3,7.299130617925333,1
+JAK-STAT; Phagocytosis,Signaling,4,7.516804262045106,1
+JAK-STAT; Phagocytosis,Signaling,5,7.17820112394622,1
+JAK-STAT; Phagocytosis,Signaling,6,7.44102476689001,1
+JAK-STAT; Phagocytosis,Signaling,8,7.519930048737491,1
+JAK-STAT; Phagocytosis,Signaling,10,7.244514148383382,1
+JAK-STAT; Phagocytosis,Signaling,12,7.2129198882465175,1
+JAK-STAT; Phagocytosis,Signaling,14,7.400424084596949,1
+JAK-STAT; Phagocytosis,Signaling,16,7.349803666987726,1
+JAK-STAT; Phagocytosis,Signaling,20,7.35045908212151,1
+JAK-STAT; Phagocytosis,Signaling,24,7.140878761569892,1
+JAK-STAT; Phagocytosis,Signaling,30,7.2127862109024035,1
+JAK-STAT; Phagocytosis,Signaling,36,7.233646860437693,1
+JAK-STAT; Phagocytosis,Signaling,42,7.213608013967859,1
+JAK-STAT; Phagocytosis,Signaling,48,7.184955316821431,1
+JAK-STAT; Phagocytosis,Signaling,72,7.263279768504901,1
+JAK-STAT; Phagocytosis,Signaling,96,7.138805061274914,1
+JAK-STAT; Phagocytosis,Signaling,120,7.102635344251928,1
+JNK,Signaling,0,3.6610833484836096,3
+JNK,Signaling,1,4.3645466167286715,3
+JNK,Signaling,2,4.38709748843543,3
+JNK,Signaling,3,4.005900277011553,3
+JNK,Signaling,4,4.108681852369305,3
+JNK,Signaling,5,3.784662689229453,3
+JNK,Signaling,6,4.190315114789051,3
+JNK,Signaling,8,4.1471376787253,3
+JNK,Signaling,10,4.1315501041144875,3
+JNK,Signaling,12,3.926581467691774,3
+JNK,Signaling,14,4.1797658899127565,3
+JNK,Signaling,16,3.9332677342237776,3
+JNK,Signaling,20,3.9373253422299452,3
+JNK,Signaling,24,4.008016275555262,3
+JNK,Signaling,30,4.138973410419254,3
+JNK,Signaling,36,4.112005268437838,3
+JNK,Signaling,42,3.8091378910951605,3
+JNK,Signaling,48,4.1202609634127,3
+JNK,Signaling,72,3.9202854387363395,3
+JNK,Signaling,96,4.128284184598317,3
+JNK,Signaling,120,4.149327739858862,3
+JNK; Encapsulation,Signaling,0,4.854854248325539,1
+JNK; Encapsulation,Signaling,1,4.9797450713738005,1
+JNK; Encapsulation,Signaling,2,5.083595862000809,1
+JNK; Encapsulation,Signaling,3,4.913915019663843,1
+JNK; Encapsulation,Signaling,4,4.930286534684126,1
+JNK; Encapsulation,Signaling,5,4.517618460963218,1
+JNK; Encapsulation,Signaling,6,4.96627629262257,1
+JNK; Encapsulation,Signaling,8,4.808649047930809,1
+JNK; Encapsulation,Signaling,10,4.873468309413895,1
+JNK; Encapsulation,Signaling,12,5.065609270006621,1
+JNK; Encapsulation,Signaling,14,4.930807551248327,1
+JNK; Encapsulation,Signaling,16,4.779044688189165,1
+JNK; Encapsulation,Signaling,20,4.842681010531578,1
+JNK; Encapsulation,Signaling,24,5.0641241966301695,1
+JNK; Encapsulation,Signaling,30,5.003159313266178,1
+JNK; Encapsulation,Signaling,36,5.171010350042577,1
+JNK; Encapsulation,Signaling,42,4.797910313837601,1
+JNK; Encapsulation,Signaling,48,5.095500796902243,1
+JNK; Encapsulation,Signaling,72,5.139532360709104,1
+JNK; Encapsulation,Signaling,96,5.2790245755319365,1
+JNK; Encapsulation,Signaling,120,5.2416189446707255,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,0,5.785900464385337,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,1,5.7453732873800725,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,2,5.816374509168805,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,3,5.8910147982977845,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,4,5.812180187784019,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,5,5.822152282183357,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,6,5.773093196974294,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,8,5.893928121027685,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,10,5.8687404378848065,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,12,5.865707737616469,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,14,5.85097294838423,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,16,5.862555943934989,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,20,5.891609828131669,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,24,5.937881133141071,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,30,5.95641475596725,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,36,5.971344232501911,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,42,5.9402526000902895,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,48,5.82525976635306,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,72,5.879651740883537,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,96,6.099359652931419,1
+JNK; Encapsulation; Phagocytosis; Wound repair,Signaling,120,6.112397441464432,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,0,3.6463044623718175,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,1,3.472299674560469,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,2,3.5329325649055887,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,3,3.3352077165429397,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,4,3.6393893529794137,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,5,3.298315964806534,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,6,3.688582247581148,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,8,3.639458888138398,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,10,3.8542988135527794,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,12,3.9092756200558316,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,14,3.6811197574796655,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,16,3.636333599549366,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,20,3.4229299566997593,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,24,3.715801760870323,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,30,3.6231960246909143,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,36,3.8477568093540153,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,42,3.564738956271332,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,48,3.6465218269898774,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,72,3.717154848459663,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,96,3.649391591592935,1
+JNK; JAK-STAT; Cellular; PO-Melanization,Signaling,120,3.6164714508395743,1
+JNK; PO-Melanization,Signaling,0,5.207260014950889,1
+JNK; PO-Melanization,Signaling,1,5.270184430269888,1
+JNK; PO-Melanization,Signaling,2,5.163958235445496,1
+JNK; PO-Melanization,Signaling,3,5.223804375126177,1
+JNK; PO-Melanization,Signaling,4,5.276375500577414,1
+JNK; PO-Melanization,Signaling,5,5.36248503830674,1
+JNK; PO-Melanization,Signaling,6,5.179510725273094,1
+JNK; PO-Melanization,Signaling,8,5.174855278114005,1
+JNK; PO-Melanization,Signaling,10,5.315478549164219,1
+JNK; PO-Melanization,Signaling,12,5.278752993276129,1
+JNK; PO-Melanization,Signaling,14,5.295873501518583,1
+JNK; PO-Melanization,Signaling,16,5.272185520073747,1
+JNK; PO-Melanization,Signaling,20,5.171037187751548,1
+JNK; PO-Melanization,Signaling,24,5.330194417239992,1
+JNK; PO-Melanization,Signaling,30,5.240927455521714,1
+JNK; PO-Melanization,Signaling,36,5.290405731166098,1
+JNK; PO-Melanization,Signaling,42,5.2951256284581065,1
+JNK; PO-Melanization,Signaling,48,5.2207888881976,1
+JNK; PO-Melanization,Signaling,72,5.313448094926582,1
+JNK; PO-Melanization,Signaling,96,5.321805210115148,1
+JNK; PO-Melanization,Signaling,120,5.367586142505585,1
+JNK; Wound repair,Signaling,0,5.3832073153924265,5
+JNK; Wound repair,Effector,0,6.44203332081335,1
+JNK; Wound repair,Signaling,1,5.70793069992598,5
+JNK; Wound repair,Effector,1,6.537737037919411,1
+JNK; Wound repair,Signaling,2,5.7265147478450045,5
+JNK; Wound repair,Effector,2,6.7574260646575555,1
+JNK; Wound repair,Signaling,3,5.627783897985399,5
+JNK; Wound repair,Effector,3,6.5775979802867015,1
+JNK; Wound repair,Signaling,4,5.529917784126818,5
+JNK; Wound repair,Effector,4,6.549227561887786,1
+JNK; Wound repair,Signaling,5,5.301038789417698,5
+JNK; Wound repair,Effector,5,6.146057184350843,1
+JNK; Wound repair,Signaling,6,5.561121501256249,5
+JNK; Wound repair,Effector,6,6.6561052649681836,1
+JNK; Wound repair,Signaling,8,5.491258205956093,5
+JNK; Wound repair,Effector,8,6.436499428929219,1
+JNK; Wound repair,Signaling,10,5.5118440245214035,5
+JNK; Wound repair,Effector,10,6.56240488651505,1
+JNK; Wound repair,Signaling,12,5.539354782428327,5
+JNK; Wound repair,Effector,12,6.6661326212908545,1
+JNK; Wound repair,Signaling,14,5.560239456522913,5
+JNK; Wound repair,Effector,14,6.631996311225965,1
+JNK; Wound repair,Signaling,16,5.380336527880179,5
+JNK; Wound repair,Effector,16,6.4880631159561934,1
+JNK; Wound repair,Signaling,20,5.381145239736613,5
+JNK; Wound repair,Effector,20,6.555866775116275,1
+JNK; Wound repair,Signaling,24,5.430503147857968,5
+JNK; Wound repair,Effector,24,6.540750994594413,1
+JNK; Wound repair,Signaling,30,5.472485652333023,5
+JNK; Wound repair,Effector,30,6.641903792924694,1
+JNK; Wound repair,Signaling,36,5.617226270328546,5
+JNK; Wound repair,Effector,36,6.766416164848274,1
+JNK; Wound repair,Signaling,42,5.427310036223136,5
+JNK; Wound repair,Effector,42,6.555042416472908,1
+JNK; Wound repair,Signaling,48,5.510303782185571,5
+JNK; Wound repair,Effector,48,6.660851200471612,1
+JNK; Wound repair,Signaling,72,5.512286323054964,5
+JNK; Wound repair,Effector,72,6.732949251727435,1
+JNK; Wound repair,Signaling,96,5.762784212821236,5
+JNK; Wound repair,Effector,96,7.076133492970232,1
+JNK; Wound repair,Signaling,120,5.651954195240437,5
+JNK; Wound repair,Effector,120,6.852047612801952,1
+JNK; Wound repair; PO-Melanization,Signaling,0,5.345416031337833,1
+JNK; Wound repair; PO-Melanization,Signaling,1,5.41533074949176,1
+JNK; Wound repair; PO-Melanization,Signaling,2,5.725285111915985,1
+JNK; Wound repair; PO-Melanization,Signaling,3,5.564411546456716,1
+JNK; Wound repair; PO-Melanization,Signaling,4,5.660722642781213,1
+JNK; Wound repair; PO-Melanization,Signaling,5,5.158682106838267,1
+JNK; Wound repair; PO-Melanization,Signaling,6,5.727061071556681,1
+JNK; Wound repair; PO-Melanization,Signaling,8,5.746581684823239,1
+JNK; Wound repair; PO-Melanization,Signaling,10,5.856664612597438,1
+JNK; Wound repair; PO-Melanization,Signaling,12,5.789564287748778,1
+JNK; Wound repair; PO-Melanization,Signaling,14,5.612780621352819,1
+JNK; Wound repair; PO-Melanization,Signaling,16,5.585894214045119,1
+JNK; Wound repair; PO-Melanization,Signaling,20,5.5843114519166495,1
+JNK; Wound repair; PO-Melanization,Signaling,24,5.469494697294715,1
+JNK; Wound repair; PO-Melanization,Signaling,30,5.611404816147842,1
+JNK; Wound repair; PO-Melanization,Signaling,36,5.516614296008133,1
+JNK; Wound repair; PO-Melanization,Signaling,42,5.5150490119261875,1
+JNK; Wound repair; PO-Melanization,Signaling,48,5.553533054718834,1
+JNK; Wound repair; PO-Melanization,Signaling,72,5.516161212301601,1
+JNK; Wound repair; PO-Melanization,Signaling,96,5.624316990505365,1
+JNK; Wound repair; PO-Melanization,Signaling,120,5.583851272542155,1
+Other/Unknown,Signaling,0,3.7091576177912557,6
+Other/Unknown,Effector,0,5.836175629724451,5
+Other/Unknown,Effector (Putative),0,2.780088329699099,2
+Other/Unknown,Effector (Lysozyme),0,4.5426551175861585,5
+Other/Unknown,Signaling,1,3.817238928310108,6
+Other/Unknown,Effector,1,6.18947455502903,5
+Other/Unknown,Effector (Putative),1,2.2141615277783173,2
+Other/Unknown,Effector (Lysozyme),1,4.611207113337259,5
+Other/Unknown,Signaling,2,3.847436189121298,6
+Other/Unknown,Effector (Putative),2,2.981873017707698,2
+Other/Unknown,Effector,2,6.267044896643515,5
+Other/Unknown,Effector (Lysozyme),2,4.645603379941005,5
+Other/Unknown,Signaling,3,3.8260877697093942,6
+Other/Unknown,Effector,3,6.1248782866476805,5
+Other/Unknown,Effector (Putative),3,3.39624731488726,2
+Other/Unknown,Effector (Lysozyme),3,4.8596901249443105,5
+Other/Unknown,Signaling,4,3.8200907654661163,6
+Other/Unknown,Effector,4,6.120373854164677,5
+Other/Unknown,Effector (Putative),4,4.446295932815204,2
+Other/Unknown,Effector (Lysozyme),4,4.67327771069137,5
+Other/Unknown,Signaling,5,3.55679408411291,6
+Other/Unknown,Effector (Putative),5,5.296537450580722,2
+Other/Unknown,Effector,5,6.255572959657008,5
+Other/Unknown,Effector (Lysozyme),5,4.974379620806067,5
+Other/Unknown,Signaling,6,3.8319474782052225,6
+Other/Unknown,Effector,6,6.242642464867177,5
+Other/Unknown,Effector (Putative),6,5.284335284778242,2
+Other/Unknown,Effector (Lysozyme),6,4.809241477920422,5
+Other/Unknown,Signaling,8,3.7868195760312076,6
+Other/Unknown,Effector (Putative),8,5.734428988145858,2
+Other/Unknown,Effector,8,6.2725179660653865,5
+Other/Unknown,Effector (Lysozyme),8,4.794915538550387,5
+Other/Unknown,Signaling,10,3.8204729946108262,6
+Other/Unknown,Effector,10,6.3844050357626925,5
+Other/Unknown,Effector (Putative),10,5.829453498479818,2
+Other/Unknown,Effector (Lysozyme),10,4.799183136434947,5
+Other/Unknown,Signaling,12,3.861256072204222,6
+Other/Unknown,Effector (Putative),12,5.881292267485533,2
+Other/Unknown,Effector,12,6.471787597637212,5
+Other/Unknown,Effector (Lysozyme),12,4.673707097889862,5
+Other/Unknown,Signaling,14,3.847993866959166,6
+Other/Unknown,Effector,14,6.235084048625787,5
+Other/Unknown,Effector (Putative),14,5.3493096717813255,2
+Other/Unknown,Effector (Lysozyme),14,4.589548144401772,5
+Other/Unknown,Signaling,16,3.7816172088886693,6
+Other/Unknown,Effector,16,6.143842786737724,5
+Other/Unknown,Effector (Putative),16,4.746676334641075,2
+Other/Unknown,Effector (Lysozyme),16,4.478950897210146,5
+Other/Unknown,Signaling,20,3.806143455223301,6
+Other/Unknown,Effector (Putative),20,4.743724576307972,2
+Other/Unknown,Effector,20,6.233233507886213,5
+Other/Unknown,Effector (Lysozyme),20,4.682936420359174,5
+Other/Unknown,Signaling,24,3.7722174921029974,6
+Other/Unknown,Effector,24,6.139635007234274,5
+Other/Unknown,Effector (Putative),24,3.7942748131752633,2
+Other/Unknown,Effector (Lysozyme),24,4.747207633713231,5
+Other/Unknown,Signaling,30,3.766374857880912,6
+Other/Unknown,Effector,30,6.449818834566275,5
+Other/Unknown,Effector (Putative),30,4.133196364776837,2
+Other/Unknown,Effector (Lysozyme),30,4.927832779976466,5
+Other/Unknown,Signaling,36,3.8332182950521196,6
+Other/Unknown,Effector,36,6.224222821900004,5
+Other/Unknown,Effector (Putative),36,2.9447517094215554,2
+Other/Unknown,Effector (Lysozyme),36,4.768260685628979,5
+Other/Unknown,Signaling,42,3.782922370433298,6
+Other/Unknown,Effector (Putative),42,3.6729537824177267,2
+Other/Unknown,Effector,42,6.235900648137226,5
+Other/Unknown,Effector (Lysozyme),42,4.6107272887683335,5
+Other/Unknown,Signaling,48,3.832574588161467,6
+Other/Unknown,Effector (Putative),48,2.86915831005218,2
+Other/Unknown,Effector,48,6.175368403554357,5
+Other/Unknown,Effector (Lysozyme),48,4.453199206209979,5
+Other/Unknown,Signaling,72,3.8202690362331944,6
+Other/Unknown,Effector (Putative),72,2.379577648839533,2
+Other/Unknown,Effector,72,6.185138593618548,5
+Other/Unknown,Effector (Lysozyme),72,4.324769300356676,5
+Other/Unknown,Signaling,96,3.868929713877691,6
+Other/Unknown,Effector (Putative),96,2.241634406512615,2
+Other/Unknown,Effector,96,6.239528416173373,5
+Other/Unknown,Effector (Lysozyme),96,5.465511153373858,5
+Other/Unknown,Signaling,120,3.8216877115127517,6
+Other/Unknown,Effector (Putative),120,2.0583797732143156,2
+Other/Unknown,Effector,120,6.189889123243889,5
+Other/Unknown,Effector (Lysozyme),120,5.167574073712679,5
+PO-Melanization,Signaling,0,5.499073233650722,3
+PO-Melanization,Effector,0,4.077125391888013,2
+PO-Melanization,Signaling,1,6.327747655643499,3
+PO-Melanization,Effector,1,4.419596287059346,2
+PO-Melanization,Signaling,2,6.362978448518601,3
+PO-Melanization,Effector,2,4.397587945335198,2
+PO-Melanization,Signaling,3,6.153270585394154,3
+PO-Melanization,Effector,3,4.076976067383327,2
+PO-Melanization,Signaling,4,5.8414855927586515,3
+PO-Melanization,Effector,4,4.276062706220851,2
+PO-Melanization,Signaling,5,5.6992159225668075,3
+PO-Melanization,Effector,5,4.231940487702685,2
+PO-Melanization,Signaling,6,5.804906585999928,3
+PO-Melanization,Effector,6,4.297408412948453,2
+PO-Melanization,Signaling,8,5.911696442055146,3
+PO-Melanization,Effector,8,4.315917569640585,2
+PO-Melanization,Signaling,10,5.841815489772336,3
+PO-Melanization,Effector,10,4.636300068891276,2
+PO-Melanization,Signaling,12,5.817838322930538,3
+PO-Melanization,Effector,12,4.666239122293622,2
+PO-Melanization,Signaling,14,5.709213174978214,3
+PO-Melanization,Effector,14,4.480720558557897,2
+PO-Melanization,Signaling,16,5.698471238277187,3
+PO-Melanization,Effector,16,4.5978995114988646,2
+PO-Melanization,Signaling,20,5.821082808708941,3
+PO-Melanization,Effector,20,4.637840711490193,2
+PO-Melanization,Signaling,24,5.590354015529921,3
+PO-Melanization,Effector,24,4.504554427037529,2
+PO-Melanization,Signaling,30,5.8426519801454155,3
+PO-Melanization,Effector,30,4.7981250310016135,2
+PO-Melanization,Signaling,36,5.713882985928805,3
+PO-Melanization,Effector,36,4.509549098786447,2
+PO-Melanization,Signaling,42,5.7787325050159195,3
+PO-Melanization,Effector,42,4.690904475896774,2
+PO-Melanization,Signaling,48,5.651816439701014,3
+PO-Melanization,Effector,48,4.566179308858963,2
+PO-Melanization,Signaling,72,5.703353748569351,3
+PO-Melanization,Effector,72,4.772095418020511,2
+PO-Melanization,Signaling,96,5.819087199733745,3
+PO-Melanization,Effector,96,4.642930481071361,2
+PO-Melanization,Signaling,120,5.808001789450006,3
+PO-Melanization,Effector,120,4.709626416558185,2
+PO-Melanization; Epithelial,Signaling,0,5.194343540338796,2
+PO-Melanization; Epithelial,Signaling,1,5.650608871352173,2
+PO-Melanization; Epithelial,Signaling,2,5.815549627196221,2
+PO-Melanization; Epithelial,Signaling,3,5.7916118696146235,2
+PO-Melanization; Epithelial,Signaling,4,5.4621271597190315,2
+PO-Melanization; Epithelial,Signaling,5,5.44202683058611,2
+PO-Melanization; Epithelial,Signaling,6,5.315684759624233,2
+PO-Melanization; Epithelial,Signaling,8,5.18842433333154,2
+PO-Melanization; Epithelial,Signaling,10,5.334545783125504,2
+PO-Melanization; Epithelial,Signaling,12,5.309424224522225,2
+PO-Melanization; Epithelial,Signaling,14,5.171441159168254,2
+PO-Melanization; Epithelial,Signaling,16,5.262279568977986,2
+PO-Melanization; Epithelial,Signaling,20,5.464500225087878,2
+PO-Melanization; Epithelial,Signaling,24,5.300124317096483,2
+PO-Melanization; Epithelial,Signaling,30,5.375992167845381,2
+PO-Melanization; Epithelial,Signaling,36,5.226744484634027,2
+PO-Melanization; Epithelial,Signaling,42,5.3888699711598935,2
+PO-Melanization; Epithelial,Signaling,48,5.353472767186139,2
+PO-Melanization; Epithelial,Signaling,72,5.375427862954141,2
+PO-Melanization; Epithelial,Signaling,96,5.715291429782351,2
+PO-Melanization; Epithelial,Signaling,120,5.595484558959074,2
+PO-Melanization; ROS,Signaling,0,2.10761178190893,1
+PO-Melanization; ROS,Signaling,1,3.066153062288384,1
+PO-Melanization; ROS,Signaling,2,3.2629552279061445,1
+PO-Melanization; ROS,Signaling,3,3.1910432281231067,1
+PO-Melanization; ROS,Signaling,4,2.71465769069672,1
+PO-Melanization; ROS,Signaling,5,2.492739689657444,1
+PO-Melanization; ROS,Signaling,6,2.5525103480547635,1
+PO-Melanization; ROS,Signaling,8,2.2323715621595506,1
+PO-Melanization; ROS,Signaling,10,2.755751235719244,1
+PO-Melanization; ROS,Signaling,12,3.0624711921579992,1
+PO-Melanization; ROS,Signaling,14,3.21269971393156,1
+PO-Melanization; ROS,Signaling,16,2.418073713881365,1
+PO-Melanization; ROS,Signaling,20,2.7921967322457175,1
+PO-Melanization; ROS,Signaling,24,2.797608204296763,1
+PO-Melanization; ROS,Signaling,30,2.952386419944707,1
+PO-Melanization; ROS,Signaling,36,3.2662284122586884,1
+PO-Melanization; ROS,Signaling,42,2.539603990361873,1
+PO-Melanization; ROS,Signaling,48,2.8542323275279804,1
+PO-Melanization; ROS,Signaling,72,2.616859812424703,1
+PO-Melanization; ROS,Signaling,96,3.9066636303242808,1
+PO-Melanization; ROS,Signaling,120,3.5245838990542717,1
+Phagocytosis,Recognition,0,4.030574211592148,17
+Phagocytosis,Other,0,5.215993303456661,6
+Phagocytosis,Effector,0,7.506607971700932,1
+Phagocytosis,Recognition,1,4.3156223232564255,17
+Phagocytosis,Other,1,5.23575887746451,6
+Phagocytosis,Effector,1,7.768941112904345,1
+Phagocytosis,Recognition,2,4.384764491819855,17
+Phagocytosis,Other,2,5.267682953860706,6
+Phagocytosis,Effector,2,7.880812465398546,1
+Phagocytosis,Recognition,3,4.1654457598123695,17
+Phagocytosis,Other,3,5.228032196205226,6
+Phagocytosis,Effector,3,7.750404024931234,1
+Phagocytosis,Recognition,4,4.22739512469661,17
+Phagocytosis,Other,4,5.309700812854559,6
+Phagocytosis,Effector,4,7.498399797414139,1
+Phagocytosis,Recognition,5,4.13623198224907,17
+Phagocytosis,Other,5,5.264585238668695,6
+Phagocytosis,Effector,5,7.42644719242076,1
+Phagocytosis,Recognition,6,4.276477355302059,17
+Phagocytosis,Other,6,5.3046485141869715,6
+Phagocytosis,Effector,6,7.527793389384971,1
+Phagocytosis,Recognition,8,4.403845339509245,17
+Phagocytosis,Other,8,5.274041450178549,6
+Phagocytosis,Effector,8,7.4764219695125185,1
+Phagocytosis,Recognition,10,4.529403700869468,17
+Phagocytosis,Other,10,5.244589113553891,6
+Phagocytosis,Effector,10,7.462436166956648,1
+Phagocytosis,Recognition,12,4.485420721876166,17
+Phagocytosis,Other,12,5.243945550356532,6
+Phagocytosis,Effector,12,7.612502341003088,1
+Phagocytosis,Recognition,14,4.425978724926982,17
+Phagocytosis,Other,14,5.366068699734346,6
+Phagocytosis,Effector,14,7.745579299577262,1
+Phagocytosis,Recognition,16,4.42092105364315,17
+Phagocytosis,Other,16,5.267545169859777,6
+Phagocytosis,Effector,16,7.5787669236598045,1
+Phagocytosis,Recognition,20,4.484737940177101,17
+Phagocytosis,Other,20,5.253309196795776,6
+Phagocytosis,Effector,20,7.605799392773333,1
+Phagocytosis,Recognition,24,4.354411329942053,17
+Phagocytosis,Other,24,5.23324469320639,6
+Phagocytosis,Effector,24,7.5975363171518,1
+Phagocytosis,Recognition,30,4.649580691446857,17
+Phagocytosis,Other,30,5.236040239158999,6
+Phagocytosis,Effector,30,7.629797750196133,1
+Phagocytosis,Recognition,36,4.3927338955667805,17
+Phagocytosis,Other,36,5.248216460592007,6
+Phagocytosis,Effector,36,7.6918885907263235,1
+Phagocytosis,Recognition,42,4.389183424394466,17
+Phagocytosis,Other,42,5.223013004139398,6
+Phagocytosis,Effector,42,7.501673694165767,1
+Phagocytosis,Recognition,48,4.336527551967715,17
+Phagocytosis,Other,48,5.21264294315362,6
+Phagocytosis,Effector,48,7.665006485601257,1
+Phagocytosis,Recognition,72,4.371025334299629,17
+Phagocytosis,Other,72,5.1923328759904885,6
+Phagocytosis,Effector,72,7.617136111411558,1
+Phagocytosis,Recognition,96,4.562593703716177,17
+Phagocytosis,Other,96,5.32620269556486,6
+Phagocytosis,Effector,96,7.757590025755993,1
+Phagocytosis,Recognition,120,4.479678021767626,17
+Phagocytosis,Other,120,5.26376400920366,6
+Phagocytosis,Effector,120,7.648940639570175,1
+Phagocytosis; Anti-viral,Recognition,0,3.5919401395274404,2
+Phagocytosis; Anti-viral,Recognition,1,3.4972277360311113,2
+Phagocytosis; Anti-viral,Recognition,2,2.988149206655278,2
+Phagocytosis; Anti-viral,Recognition,3,2.6218777301516,2
+Phagocytosis; Anti-viral,Recognition,4,3.2617172602064355,2
+Phagocytosis; Anti-viral,Recognition,5,3.4971277010426247,2
+Phagocytosis; Anti-viral,Recognition,6,3.619120198216277,2
+Phagocytosis; Anti-viral,Recognition,8,3.6823958035096234,2
+Phagocytosis; Anti-viral,Recognition,10,4.2571809818113255,2
+Phagocytosis; Anti-viral,Recognition,12,4.300557051651376,2
+Phagocytosis; Anti-viral,Recognition,14,4.228090301526429,2
+Phagocytosis; Anti-viral,Recognition,16,4.21362231592549,2
+Phagocytosis; Anti-viral,Recognition,20,4.460668796104017,2
+Phagocytosis; Anti-viral,Recognition,24,4.488937504709346,2
+Phagocytosis; Anti-viral,Recognition,30,4.456848497944518,2
+Phagocytosis; Anti-viral,Recognition,36,4.170421634791058,2
+Phagocytosis; Anti-viral,Recognition,42,4.283102302627672,2
+Phagocytosis; Anti-viral,Recognition,48,4.253735803774281,2
+Phagocytosis; Anti-viral,Recognition,72,4.056953130620127,2
+Phagocytosis; Anti-viral,Recognition,96,3.8259115042149734,2
+Phagocytosis; Anti-viral,Recognition,120,4.409323938580098,2
+ROS,Effector (ROS),0,6.92554549371211,2
+ROS,Effector (ROS),1,6.968519372061005,2
+ROS,Effector (ROS),2,6.920534632292201,2
+ROS,Effector (ROS),3,6.906944721347049,2
+ROS,Effector (ROS),4,7.005506212286034,2
+ROS,Effector (ROS),5,7.015585497768896,2
+ROS,Effector (ROS),6,6.798165380104399,2
+ROS,Effector (ROS),8,6.930703225022535,2
+ROS,Effector (ROS),10,6.907469402104775,2
+ROS,Effector (ROS),12,6.847925230982199,2
+ROS,Effector (ROS),14,6.819259316376224,2
+ROS,Effector (ROS),16,6.8436596007536314,2
+ROS,Effector (ROS),20,6.898603723973584,2
+ROS,Effector (ROS),24,6.959442210006106,2
+ROS,Effector (ROS),30,6.947350311311605,2
+ROS,Effector (ROS),36,6.915864907106437,2
+ROS,Effector (ROS),42,6.934629590650389,2
+ROS,Effector (ROS),48,6.837500679267736,2
+ROS,Effector (ROS),72,6.922810309768619,2
+ROS,Effector (ROS),96,6.8416768665038195,2
+ROS,Effector (ROS),120,6.980497266120804,2
+Toll,Effector (Putative),0,5.821020997857746,4
+Toll,Recognition,0,4.374380211597062,4
+Toll,Signaling,0,4.656004534315881,29
+Toll,Effector (AMP),0,3.7370755979756027,7
+Toll,Recognition,1,5.103932577546642,4
+Toll,Effector (Putative),1,7.2097656782775355,4
+Toll,Signaling,1,4.802176765274675,29
+Toll,Effector (AMP),1,4.493178371642412,7
+Toll,Effector (Putative),2,8.565287518431308,4
+Toll,Recognition,2,5.23091396495415,4
+Toll,Signaling,2,4.866496321166169,29
+Toll,Effector (AMP),2,4.8040867173989,7
+Toll,Signaling,3,4.754240294273531,29
+Toll,Recognition,3,5.127106405891684,4
+Toll,Effector (Putative),3,9.20495576394196,4
+Toll,Effector (AMP),3,5.120839278772593,7
+Toll,Effector (Putative),4,9.343603772123833,4
+Toll,Recognition,4,4.996770193024488,4
+Toll,Signaling,4,4.8087790044538865,29
+Toll,Effector (AMP),4,5.111047287707712,7
+Toll,Recognition,5,5.204767153231147,4
+Toll,Signaling,5,4.699104673391944,29
+Toll,Effector (Putative),5,9.186655283016785,4
+Toll,Effector (AMP),5,5.527164725811962,7
+Toll,Recognition,6,5.0805301385804995,4
+Toll,Signaling,6,4.838623917872432,29
+Toll,Effector (Putative),6,9.280938643033172,4
+Toll,Effector (AMP),6,5.454969252774265,7
+Toll,Recognition,8,5.201376914862064,4
+Toll,Effector (Putative),8,9.407711869301368,4
+Toll,Signaling,8,4.838749296681139,29
+Toll,Effector (AMP),8,5.576832204044438,7
+Toll,Effector (Putative),10,8.77656708789547,4
+Toll,Recognition,10,5.440549582365438,4
+Toll,Signaling,10,4.904695290753364,29
+Toll,Effector (AMP),10,5.476668550042086,7
+Toll,Signaling,12,4.875599148525444,29
+Toll,Effector (Putative),12,7.988013862452533,4
+Toll,Recognition,12,5.464391772836981,4
+Toll,Effector (AMP),12,5.500499529218523,7
+Toll,Signaling,14,4.851800805692303,29
+Toll,Effector (Putative),14,8.173592507221016,4
+Toll,Recognition,14,5.312547818356448,4
+Toll,Effector (AMP),14,5.836483664684663,7
+Toll,Signaling,16,4.833011536760953,29
+Toll,Recognition,16,5.306153274398321,4
+Toll,Effector (Putative),16,8.399893981587436,4
+Toll,Effector (AMP),16,5.3402556942084045,7
+Toll,Signaling,20,4.8545640006633075,29
+Toll,Recognition,20,5.448121180451451,4
+Toll,Effector (Putative),20,8.599527342425851,4
+Toll,Effector (AMP),20,5.882321315504752,7
+Toll,Recognition,24,4.95506750238013,4
+Toll,Effector (Putative),24,7.237253456007642,4
+Toll,Signaling,24,4.753734486797463,29
+Toll,Effector (AMP),24,4.792659840862766,7
+Toll,Effector (Putative),30,8.826667088971599,4
+Toll,Signaling,30,4.907582045989927,29
+Toll,Recognition,30,5.531787526059385,4
+Toll,Effector (AMP),30,6.098638218726783,7
+Toll,Signaling,36,4.879364389110949,29
+Toll,Effector (Putative),36,7.450787781092908,4
+Toll,Recognition,36,5.313534274696194,4
+Toll,Effector (AMP),36,5.507271463681085,7
+Toll,Effector (Putative),42,8.661942154620805,4
+Toll,Signaling,42,4.876136089697765,29
+Toll,Recognition,42,5.426605805564041,4
+Toll,Effector (AMP),42,5.5749274062076,7
+Toll,Effector (Putative),48,6.778770491705341,4
+Toll,Signaling,48,4.8178913023289205,29
+Toll,Recognition,48,5.119207285067613,4
+Toll,Effector (AMP),48,4.97805540297528,7
+Toll,Effector (Putative),72,7.440555682611972,4
+Toll,Recognition,72,5.212849795469566,4
+Toll,Signaling,72,4.827948875589344,29
+Toll,Effector (AMP),72,5.051650836895172,7
+Toll,Signaling,96,4.8971347962531,29
+Toll,Recognition,96,5.416853683307354,4
+Toll,Effector (Putative),96,6.471476216128885,4
+Toll,Effector (AMP),96,5.379453836720694,7
+Toll,Signaling,120,4.892271541510688,29
+Toll,Effector (Putative),120,6.3649500152803515,4
+Toll,Recognition,120,5.309116628067582,4
+Toll,Effector (AMP),120,5.346890933781504,7
+Toll; Anti-viral,Signaling,0,8.64723711774568,1
+Toll; Anti-viral,Signaling,1,8.790623308695988,1
+Toll; Anti-viral,Signaling,2,8.816026826663546,1
+Toll; Anti-viral,Signaling,3,8.470444013291546,1
+Toll; Anti-viral,Signaling,4,8.57779085126936,1
+Toll; Anti-viral,Signaling,5,8.394011167874481,1
+Toll; Anti-viral,Signaling,6,8.672750702280819,1
+Toll; Anti-viral,Signaling,8,8.789396662632381,1
+Toll; Anti-viral,Signaling,10,8.979625399235506,1
+Toll; Anti-viral,Signaling,12,9.022722324711454,1
+Toll; Anti-viral,Signaling,14,9.112004298816002,1
+Toll; Anti-viral,Signaling,16,8.93172336140642,1
+Toll; Anti-viral,Signaling,20,8.875618090789224,1
+Toll; Anti-viral,Signaling,24,8.867972589706682,1
+Toll; Anti-viral,Signaling,30,8.896477365941493,1
+Toll; Anti-viral,Signaling,36,8.95676622207314,1
+Toll; Anti-viral,Signaling,42,8.823165144646342,1
+Toll; Anti-viral,Signaling,48,8.87402159384671,1
+Toll; Anti-viral,Signaling,72,8.997053899250085,1
+Toll; Anti-viral,Signaling,96,9.100931998152072,1
+Toll; Anti-viral,Signaling,120,9.09116297313887,1
+Toll; Cellular,Signaling,0,5.019865128213567,3
+Toll; Cellular,Signaling,1,5.077403240126048,3
+Toll; Cellular,Signaling,2,5.100600105397906,3
+Toll; Cellular,Signaling,3,4.973692888097229,3
+Toll; Cellular,Signaling,4,5.169093649595278,3
+Toll; Cellular,Signaling,5,4.893042697444907,3
+Toll; Cellular,Signaling,6,5.199093403421884,3
+Toll; Cellular,Signaling,8,5.198971308503579,3
+Toll; Cellular,Signaling,10,5.210269163763018,3
+Toll; Cellular,Signaling,12,5.237378175083691,3
+Toll; Cellular,Signaling,14,5.143502001642259,3
+Toll; Cellular,Signaling,16,5.137370999082286,3
+Toll; Cellular,Signaling,20,5.089631980827219,3
+Toll; Cellular,Signaling,24,4.982872324024412,3
+Toll; Cellular,Signaling,30,5.120163488829848,3
+Toll; Cellular,Signaling,36,5.199582855029431,3
+Toll; Cellular,Signaling,42,5.024833115339055,3
+Toll; Cellular,Signaling,48,5.096702650103819,3
+Toll; Cellular,Signaling,72,4.972033227665001,3
+Toll; Cellular,Signaling,96,5.054570943876929,3
+Toll; Cellular,Signaling,120,5.042284729270373,3
+Toll; Encapsulation,Signaling,0,5.923918632894791,1
+Toll; Encapsulation,Signaling,1,6.002992873668225,1
+Toll; Encapsulation,Signaling,2,6.050070023222231,1
+Toll; Encapsulation,Signaling,3,6.055636319179988,1
+Toll; Encapsulation,Signaling,4,6.0274908644524015,1
+Toll; Encapsulation,Signaling,5,5.688943578932516,1
+Toll; Encapsulation,Signaling,6,6.178533909879366,1
+Toll; Encapsulation,Signaling,8,5.963927070799414,1
+Toll; Encapsulation,Signaling,10,5.977302237670254,1
+Toll; Encapsulation,Signaling,12,6.046169363009828,1
+Toll; Encapsulation,Signaling,14,6.197930202746923,1
+Toll; Encapsulation,Signaling,16,5.933765845041323,1
+Toll; Encapsulation,Signaling,20,5.950281889792092,1
+Toll; Encapsulation,Signaling,24,5.967536968056616,1
+Toll; Encapsulation,Signaling,30,6.003340886804921,1
+Toll; Encapsulation,Signaling,36,6.171968314714522,1
+Toll; Encapsulation,Signaling,42,5.981311683506112,1
+Toll; Encapsulation,Signaling,48,6.037249292038092,1
+Toll; Encapsulation,Signaling,72,6.054667036940736,1
+Toll; Encapsulation,Signaling,96,6.110984796834122,1
+Toll; Encapsulation,Signaling,120,6.031365576954252,1
+Toll; JAK-STAT; Phagocytosis,Recognition,0,0.8021138122299851,1
+Toll; JAK-STAT; Phagocytosis,Recognition,1,0.7654332018294822,1
+Toll; JAK-STAT; Phagocytosis,Recognition,2,0.9924945032273429,1
+Toll; JAK-STAT; Phagocytosis,Recognition,3,1.178136727040899,1
+Toll; JAK-STAT; Phagocytosis,Recognition,4,1.1077943391897576,1
+Toll; JAK-STAT; Phagocytosis,Recognition,5,0.9667043911154989,1
+Toll; JAK-STAT; Phagocytosis,Recognition,6,1.3893381425211562,1
+Toll; JAK-STAT; Phagocytosis,Recognition,8,1.4998929932890133,1
+Toll; JAK-STAT; Phagocytosis,Recognition,10,1.1946919412552017,1
+Toll; JAK-STAT; Phagocytosis,Recognition,12,1.190625754600938,1
+Toll; JAK-STAT; Phagocytosis,Recognition,14,1.1161321226342285,1
+Toll; JAK-STAT; Phagocytosis,Recognition,16,0.8670161367216173,1
+Toll; JAK-STAT; Phagocytosis,Recognition,20,0.933057785404317,1
+Toll; JAK-STAT; Phagocytosis,Recognition,24,0.6393809026011208,1
+Toll; JAK-STAT; Phagocytosis,Recognition,30,3.6246769460707906,1
+Toll; JAK-STAT; Phagocytosis,Recognition,36,0.8847082561820356,1
+Toll; JAK-STAT; Phagocytosis,Recognition,42,0.549471434823661,1
+Toll; JAK-STAT; Phagocytosis,Recognition,48,0.716981736906088,1
+Toll; JAK-STAT; Phagocytosis,Recognition,72,0.9222542103949103,1
+Toll; JAK-STAT; Phagocytosis,Recognition,96,0.8938964077828997,1
+Toll; JAK-STAT; Phagocytosis,Recognition,120,0.6900158151228837,1
+Toll; PO-Melanization,Signaling,0,5.96313544262275,3
+Toll; PO-Melanization,Signaling,1,6.034099662798561,3
+Toll; PO-Melanization,Signaling,2,6.554587394380266,3
+Toll; PO-Melanization,Signaling,3,6.252127959058462,3
+Toll; PO-Melanization,Signaling,4,6.129375547546787,3
+Toll; PO-Melanization,Signaling,5,5.873548797236207,3
+Toll; PO-Melanization,Signaling,6,6.158852172288878,3
+Toll; PO-Melanization,Signaling,8,6.149438342247703,3
+Toll; PO-Melanization,Signaling,10,6.226265673859785,3
+Toll; PO-Melanization,Signaling,12,6.158189877209293,3
+Toll; PO-Melanization,Signaling,14,5.8756829917232265,3
+Toll; PO-Melanization,Signaling,16,5.809076666945512,3
+Toll; PO-Melanization,Signaling,20,5.978475087080736,3
+Toll; PO-Melanization,Signaling,24,5.749844928869013,3
+Toll; PO-Melanization,Signaling,30,5.964734044652498,3
+Toll; PO-Melanization,Signaling,36,5.690629607789198,3
+Toll; PO-Melanization,Signaling,42,5.6738794253162865,3
+Toll; PO-Melanization,Signaling,48,5.8015777454665285,3
+Toll; PO-Melanization,Signaling,72,5.655019745897765,3
+Toll; PO-Melanization,Signaling,96,5.898564628036958,3
+Toll; PO-Melanization,Signaling,120,5.553377714000146,3
+Wound repair,Signaling,0,4.263242285059613,4
+Wound repair,Other,0,7.206489298289086,2
+Wound repair,Effector,0,2.4359858000521344,1
+Wound repair,Other,1,7.26710694524681,2
+Wound repair,Signaling,1,4.241094265672121,4
+Wound repair,Effector,1,2.3548057932771,1
+Wound repair,Other,2,7.252414727376833,2
+Wound repair,Signaling,2,4.244198731858979,4
+Wound repair,Effector,2,2.5950933310264057,1
+Wound repair,Other,3,7.234033923858746,2
+Wound repair,Signaling,3,4.140647903828822,4
+Wound repair,Effector,3,2.1156680275807975,1
+Wound repair,Other,4,7.166446007637761,2
+Wound repair,Signaling,4,4.063144486544749,4
+Wound repair,Effector,4,2.7544384965795103,1
+Wound repair,Signaling,5,4.047014854640175,4
+Wound repair,Other,5,7.034305867661663,2
+Wound repair,Effector,5,2.1292829261320874,1
+Wound repair,Other,6,7.2998654350370895,2
+Wound repair,Signaling,6,4.195834615111295,4
+Wound repair,Effector,6,2.648710938723722,1
+Wound repair,Other,8,7.317115660728357,2
+Wound repair,Signaling,8,4.09205724179687,4
+Wound repair,Effector,8,2.6569796962319927,1
+Wound repair,Other,10,7.440584518183448,2
+Wound repair,Signaling,10,4.2943954171899055,4
+Wound repair,Effector,10,2.474635226043367,1
+Wound repair,Signaling,12,4.331731541506086,4
+Wound repair,Other,12,7.5122577541530475,2
+Wound repair,Effector,12,2.518102623182271,1
+Wound repair,Other,14,7.509827832371368,2
+Wound repair,Signaling,14,4.237870961875507,4
+Wound repair,Effector,14,2.4585953924535113,1
+Wound repair,Signaling,16,4.147337092108289,4
+Wound repair,Other,16,7.365365033354319,2
+Wound repair,Effector,16,2.47417111877967,1
+Wound repair,Signaling,20,4.20380949552994,4
+Wound repair,Other,20,7.26690846844262,2
+Wound repair,Effector,20,2.2633842789363383,1
+Wound repair,Other,24,7.29769343693211,2
+Wound repair,Signaling,24,4.414731319901245,4
+Wound repair,Effector,24,2.3138246651286942,1
+Wound repair,Signaling,30,4.3433788159556235,4
+Wound repair,Other,30,7.374032599737994,2
+Wound repair,Effector,30,2.1335577428440264,1
+Wound repair,Signaling,36,4.3532898956540516,4
+Wound repair,Other,36,7.440624053421067,2
+Wound repair,Effector,36,2.2997068978386146,1
+Wound repair,Signaling,42,4.314449108438517,4
+Wound repair,Other,42,7.341136337607566,2
+Wound repair,Effector,42,2.2351012197540703,1
+Wound repair,Other,48,7.2941342238311275,2
+Wound repair,Signaling,48,4.426666296507975,4
+Wound repair,Effector,48,2.4332295009002634,1
+Wound repair,Other,72,7.247874274966829,2
+Wound repair,Signaling,72,4.435879904516765,4
+Wound repair,Effector,72,2.4594081076875955,1
+Wound repair,Other,96,7.28692630053559,2
+Wound repair,Signaling,96,4.470880282007025,4
+Wound repair,Effector,96,2.041121286883362,1
+Wound repair,Other,120,7.284705782290878,2
+Wound repair,Signaling,120,4.604973306059645,4
+Wound repair,Effector,120,2.0623543157865214,1
+Wound repair; PO-Melanization,Signaling,0,2.898058703387439,1
+Wound repair; PO-Melanization,Effector,0,5.046162796365887,2
+Wound repair; PO-Melanization,Signaling,1,4.985062476498574,1
+Wound repair; PO-Melanization,Effector,1,5.057775176148255,2
+Wound repair; PO-Melanization,Signaling,2,5.364925718264699,1
+Wound repair; PO-Melanization,Effector,2,4.791650679578442,2
+Wound repair; PO-Melanization,Signaling,3,4.91149559384675,1
+Wound repair; PO-Melanization,Effector,3,4.393880981547936,2
+Wound repair; PO-Melanization,Signaling,4,4.6700421130379475,1
+Wound repair; PO-Melanization,Effector,4,4.453000432531608,2
+Wound repair; PO-Melanization,Signaling,5,3.912137954739578,1
+Wound repair; PO-Melanization,Effector,5,4.270222325776413,2
+Wound repair; PO-Melanization,Signaling,6,4.377502330520825,1
+Wound repair; PO-Melanization,Effector,6,4.55206668993899,2
+Wound repair; PO-Melanization,Signaling,8,4.814435785858571,1
+Wound repair; PO-Melanization,Effector,8,4.587360240459843,2
+Wound repair; PO-Melanization,Signaling,10,4.344441360443414,1
+Wound repair; PO-Melanization,Effector,10,4.747590317018849,2
+Wound repair; PO-Melanization,Signaling,12,4.565428060662128,1
+Wound repair; PO-Melanization,Effector,12,4.511952833057469,2
+Wound repair; PO-Melanization,Signaling,14,3.6960342546173575,1
+Wound repair; PO-Melanization,Effector,14,4.43515298688035,2
+Wound repair; PO-Melanization,Signaling,16,3.760645548651542,1
+Wound repair; PO-Melanization,Effector,16,4.50670031232097,2
+Wound repair; PO-Melanization,Signaling,20,4.294895367588644,1
+Wound repair; PO-Melanization,Effector,20,4.688548606258964,2
+Wound repair; PO-Melanization,Signaling,24,3.358342384468946,1
+Wound repair; PO-Melanization,Effector,24,5.106715850870217,2
+Wound repair; PO-Melanization,Signaling,30,4.657423171163948,1
+Wound repair; PO-Melanization,Effector,30,4.83047080049796,2
+Wound repair; PO-Melanization,Signaling,36,3.8610017883170062,1
+Wound repair; PO-Melanization,Effector,36,4.816359852782356,2
+Wound repair; PO-Melanization,Signaling,42,3.810116396500569,1
+Wound repair; PO-Melanization,Effector,42,5.009427888091814,2
+Wound repair; PO-Melanization,Signaling,48,3.596145786504015,1
+Wound repair; PO-Melanization,Effector,48,4.989713200657308,2
+Wound repair; PO-Melanization,Signaling,72,3.8783035310591227,1
+Wound repair; PO-Melanization,Effector,72,4.9053626981466865,2
+Wound repair; PO-Melanization,Signaling,96,3.775999289953832,1
+Wound repair; PO-Melanization,Effector,96,4.782146912612714,2
+Wound repair; PO-Melanization,Signaling,120,3.747638646374443,1
+Wound repair; PO-Melanization,Effector,120,5.024602977086508,2
+Wound repair; PO-Melanization; ROS,Effector,0,6.428150098084158,1
+Wound repair; PO-Melanization; ROS,Effector,1,6.82015262412197,1
+Wound repair; PO-Melanization; ROS,Effector,2,6.803350518264605,1
+Wound repair; PO-Melanization; ROS,Effector,3,6.866994082337892,1
+Wound repair; PO-Melanization; ROS,Effector,4,6.601191287979898,1
+Wound repair; PO-Melanization; ROS,Effector,5,6.375723472519368,1
+Wound repair; PO-Melanization; ROS,Effector,6,6.612557160594411,1
+Wound repair; PO-Melanization; ROS,Effector,8,6.525941065563877,1
+Wound repair; PO-Melanization; ROS,Effector,10,6.643314754408534,1
+Wound repair; PO-Melanization; ROS,Effector,12,6.463904734294932,1
+Wound repair; PO-Melanization; ROS,Effector,14,6.381864675232576,1
+Wound repair; PO-Melanization; ROS,Effector,16,6.3122021066094725,1
+Wound repair; PO-Melanization; ROS,Effector,20,6.2840457211999645,1
+Wound repair; PO-Melanization; ROS,Effector,24,6.2672992731539985,1
+Wound repair; PO-Melanization; ROS,Effector,30,6.5441199650725554,1
+Wound repair; PO-Melanization; ROS,Effector,36,6.498265662437515,1
+Wound repair; PO-Melanization; ROS,Effector,42,6.293854637279144,1
+Wound repair; PO-Melanization; ROS,Effector,48,6.331326628871658,1
+Wound repair; PO-Melanization; ROS,Effector,72,6.3346435643935655,1
+Wound repair; PO-Melanization; ROS,Effector,96,6.306753365045396,1
+Wound repair; PO-Melanization; ROS,Effector,120,6.29072206093861,1
+nan,nan,0,1.9787722849955038,7
+nan,nan,1,3.882480367626958,7
+nan,nan,2,4.327191866894023,7
+nan,nan,3,4.351701966994729,7
+nan,nan,4,4.40935434187787,7
+nan,nan,5,4.620212451182205,7
+nan,nan,6,4.577179861160963,7
+nan,nan,8,4.675612505923744,7
+nan,nan,10,4.3488206233317355,7
+nan,nan,12,4.39364300547648,7
+nan,nan,14,4.11591205040899,7
+nan,nan,16,4.091746743493438,7
+nan,nan,20,4.677271813119069,7
+nan,nan,24,3.162291380960414,7
+nan,nan,30,4.695261163646711,7
+nan,nan,36,3.6171639853918065,7
+nan,nan,42,4.528347185826876,7
+nan,nan,48,3.737500521862576,7
+nan,nan,72,3.8646132938349567,7
+nan,nan,96,3.6436576782412478,7
+nan,nan,120,3.305754482909721,7
