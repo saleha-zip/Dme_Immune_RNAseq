@@ -100,8 +100,8 @@ The pipeline is organized into **5 biological analysis stages** and **1 standalo
 
 ```
 RAW COUNT MATRIX (17,736 genes × 41 samples)
-        │
-        ▼
+                       │
+                       ▼
 ┌─────────────────────────────────────────────────────┐
 │  01  INGESTION                                      │
 │  Wide → Long format reshape · Metadata join         │
@@ -109,7 +109,7 @@ RAW COUNT MATRIX (17,736 genes × 41 samples)
 │  Cache + Parquet persistence                        │
 └──────────────────────┬──────────────────────────────┘
                        │
-        ▼
+                       ▼
 ┌─────────────────────────────────────────────────────┐
 │  02  PREPROCESSING                                  │
 │  Low-count gene filter (total < 10)                 │
